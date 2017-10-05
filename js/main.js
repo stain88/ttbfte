@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
 	var items = YAML.load('data/items.yaml').items;
-	// items.sort(function(a, b) {
-	// 	return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
-	// });
+
 	sort_items(items,"name");
+
 	var item_table_body = document.getElementById("items-table");
 	items.forEach(function(item) {
 		var table_row = document.createElement("tr");
@@ -19,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
 				row_class = "warning";
 				break;
 			case "elite":
-				row_class = "elite";
+				row_class = "danger";
 				break;
 			default:
 				row_class = "";
