@@ -38,10 +38,14 @@ document.addEventListener('DOMContentLoaded', function() {
 		var level_node = document.createTextNode(item.level);
 		var type_node = document.createTextNode(item.type);
 		var quality_node = document.createTextNode(item.quality);
-		var stats_node = document.createTextNode(item.stats);
 		var buy_node = document.createTextNode(item.buy_price || "N/A");
 		var sell_node = document.createTextNode(item.sell_price);
 		var found_node = document.createTextNode(item.found || "TBC");
+
+		var stats_node = document.createTextNode("");
+		Object.keys(item.stats).map(function(stat_key, index) {
+			stats_node.textContent += stat_key + ": " + item.stats[stat_key] + "; ";
+		});
 
 		name_el.appendChild(name_node);
 		level_el.appendChild(level_node);
