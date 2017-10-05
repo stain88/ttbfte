@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
 	var items = YAML.load('data/items.yaml').items;
+	// items.sort(function(a, b) {
+	// 	return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
+	// });
+	sort_items(items,"name");
 	var item_table_body = document.getElementById("items-table");
 	items.forEach(function(item) {
 		var table_row = document.createElement("tr");
@@ -60,3 +64,21 @@ document.addEventListener('DOMContentLoaded', function() {
 		item_table_body.appendChild(table_row);
 	});
 });
+
+function sort_items(items, sort_value) {
+	items.sort(function(a, b) {
+		switch(sort_value) {
+			case "name":
+				return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
+			case "level":
+				return a.level < b.level ? -1 : 1;
+			case "type":
+				return a.type.toUpperCase() < b.type.toUpperCase() ? -1 : 1;
+			case "quality":
+				sort_order = ["ordinary","unique","rare","very rare","elite"];
+				return sort_order.indexOf(a.quality.toLowerCase()) < sort_order.indexOf(b.quality.toLowerCase()) ? -1 : 1;
+			default:
+				return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
+		}
+	});
+}
