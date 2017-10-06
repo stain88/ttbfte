@@ -20,7 +20,11 @@ function sort_items(sort_value) {
 			case "type":
 				if (type_sort.indexOf(a.type.toLowerCase()) < type_sort.indexOf(b.type.toLowerCase())) return -1;
 				if (type_sort.indexOf(a.type.toLowerCase()) > type_sort.indexOf(b.type.toLowerCase())) return 1;
-				return a.level < b.level ? -1 : 1;
+				if (a.level < b.level) return -1;
+				if (a.level > b.level) return 1;
+				if (quality_sort.indexOf(a.quality.toLowerCase()) < quality_sort.indexOf(b.quality.toLowerCase())) return -1;
+				if (quality_sort.indexOf(a.quality.toLowerCase()) > quality_sort.indexOf(b.quality.toLowerCase())) return 1;
+				break;
 			case "quality":
 				if (quality_sort.indexOf(a.quality.toLowerCase()) < quality_sort.indexOf(b.quality.toLowerCase())) return -1;
 				if (quality_sort.indexOf(a.quality.toLowerCase()) > quality_sort.indexOf(b.quality.toLowerCase())) return 1;
@@ -33,6 +37,7 @@ function sort_items(sort_value) {
 				return a.level < b.level ? -1 : 1;
 		}
 	});
+	if (document.getElementById("sortcheckbox").checked) items.reverse();
 	draw_table();
 }
 
