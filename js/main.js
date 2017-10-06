@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function sort_items(sort_value) {
+	var type_sort = ["dualwield","onehander","twohander","bow","rod","cannon","ring","necklace","artifact"];
+	var quality_sort = ["ordinary","unique","rare","very rare","elite"];
 	items.sort(function(a, b) {
 		switch(sort_value) {
 			case "name":
@@ -16,14 +18,14 @@ function sort_items(sort_value) {
 				if (a.name.toLowerCase() > b.name.toLowerCase()) return 1;
 				return a.level < b.level ? -1 : 1;
 			case "type":
-				var type_sort = ["dualwield","onehander","twohander","bow","rod","cannon","ring","necklace","artifact"];
 				if (type_sort.indexOf(a.type.toLowerCase()) < type_sort.indexOf(b.type.toLowerCase())) return -1;
 				if (type_sort.indexOf(a.type.toLowerCase()) > type_sort.indexOf(b.type.toLowerCase())) return 1;
 				return a.level < b.level ? -1 : 1;
 			case "quality":
-				var quality_sort = ["ordinary","unique","rare","very rare","elite"];
 				if (quality_sort.indexOf(a.quality.toLowerCase()) < quality_sort.indexOf(b.quality.toLowerCase())) return -1;
 				if (quality_sort.indexOf(a.quality.toLowerCase()) > quality_sort.indexOf(b.quality.toLowerCase())) return 1;
+				if (type_sort.indexOf(a.type.toLowerCase()) < type_sort.indexOf(b.type.toLowerCase())) return -1;
+				if (type_sort.indexOf(a.type.toLowerCase()) > type_sort.indexOf(b.type.toLowerCase())) return 1;
 				return a.level < b.level ? -1 : 1;
 			default:
 				if (a.name.toLowerCase() < b.name.toLowerCase()) return -1;
@@ -31,6 +33,7 @@ function sort_items(sort_value) {
 				return a.level < b.level ? -1 : 1;
 		}
 	});
+	draw_table();
 }
 
 function draw_table() {
