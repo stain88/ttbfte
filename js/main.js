@@ -1,9 +1,41 @@
+var items;
+
 document.addEventListener('DOMContentLoaded', function() {
-	var items = YAML.load('data/items.yaml').items;
+	items = YAML.load('data/items.yaml').items;
 
-	sort_items(items,"name");
+	sort_items("name");
 
+	draw_table();
+});
+
+function sort_items(sort_value) {
+	items.sort(function(a, b) {
+		switch(sort_value) {
+			case "name":
+				if (a.name.toLowerCase() < b.name.toLowerCase()) return -1;
+				if (a.name.toLowerCase() > b.name.toLowerCase()) return 1;
+				return a.level < b.level ? -1 : 1;
+			case "type":
+				var type_sort = ["dualwield","onehander","twohander","bow","rod","cannon","ring","necklace","artifact"];
+				if (type_sort.indexOf(a.type.toLowerCase()) < type_sort.indexOf(b.type.toLowerCase())) return -1;
+				if (type_sort.indexOf(a.type.toLowerCase()) > type_sort.indexOf(b.type.toLowerCase())) return 1;
+				return a.level < b.level ? -1 : 1;
+			case "quality":
+				var quality_sort = ["ordinary","unique","rare","very rare","elite"];
+				if (quality_sort.indexOf(a.quality.toLowerCase()) < quality_sort.indexOf(b.quality.toLowerCase())) return -1;
+				if (quality_sort.indexOf(a.quality.toLowerCase()) > quality_sort.indexOf(b.quality.toLowerCase())) return 1;
+				return a.level < b.level ? -1 : 1;
+			default:
+				if (a.name.toLowerCase() < b.name.toLowerCase()) return -1;
+				if (a.name.toLowerCase() > b.name.toLowerCase()) return 1;
+				return a.level < b.level ? -1 : 1;
+		}
+	});
+}
+
+function draw_table() {
 	var item_table_body = document.getElementById("items-table");
+	item_table_body.innerHTML = "";
 	items.forEach(function(item) {
 		var table_row = document.createElement("tr");
 		var row_class = "";
@@ -65,23 +97,5 @@ document.addEventListener('DOMContentLoaded', function() {
 		table_row.appendChild(found_el);
 
 		item_table_body.appendChild(table_row);
-	});
-});
-
-function sort_items(items, sort_value) {
-	items.sort(function(a, b) {
-		switch(sort_value) {
-			case "name":
-				return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
-			case "level":
-				return a.level < b.level ? -1 : 1;
-			case "type":
-				return a.type.toUpperCase() < b.type.toUpperCase() ? -1 : 1;
-			case "quality":
-				sort_order = ["ordinary","unique","rare","very rare","elite"];
-				return sort_order.indexOf(a.quality.toLowerCase()) < sort_order.indexOf(b.quality.toLowerCase()) ? -1 : 1;
-			default:
-				return a.name.toUpperCase() < b.name.toUpperCase() ? -1 : 1;
-		}
 	});
 }
