@@ -1049,6 +1049,7 @@ items:
     sell_price: 15
     type: cannon
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Blasphemous Howitzer
     level: 14
     stats:
@@ -1584,7 +1585,7 @@ items:
     sell_price: 335
     type: bow
     quality: unique
-    found: Berzerkgang, Slime Wave 10
+    found: Berzerkgang, Slime wave 10
   - name: Filthy Blades
     level: 54
     stats:
@@ -1596,7 +1597,7 @@ items:
     sell_price: 335
     type: dualwield
     quality: unique
-    found: Berzerkgang, Slime Wave 10
+    found: Berzerkgang, Slime wave 10
   - name: Big Bang
     level: 50
     stats:
@@ -1620,7 +1621,7 @@ items:
     sell_price: 400
     type: bow
     quality: rare
-    found: Sir De Haro, Slime Wave 20
+    found: Sir De Haro, Slime wave 20
   - name: Green Rana Ring
     level: 54
     stats:
@@ -1629,7 +1630,7 @@ items:
     sell_price: 345
     type: ring
     quality: unique
-    found: Sir De Haro, Slime Wave 20
+    found: Sir De Haro, Slime wave 20
   - name: Kanabo
     level: 54
     stats:
@@ -1641,7 +1642,7 @@ items:
     sell_price: 335
     type: twohander
     quality: unique
-    found: Sir De Haro, Slime Wave 20
+    found: Sir De Haro, Slime wave 20
   - name: Kilij
     level: 54
     stats:
@@ -1653,7 +1654,7 @@ items:
     sell_price: 335
     type: onehander
     quality: unique
-    found: Berzerkgang, Slime Wave 10
+    found: Berzerkgang, Slime wave 10
   - name: Slime In A Bottle
     level: 50
     stats:
@@ -1669,7 +1670,7 @@ items:
     sell_price: 345
     type: necklace
     quality: unique
-    found: Berzerkgang, Slime Wave 10
+    found: Berzerkgang, Slime wave 10
   - name: Strong Bow
     level: 4
     stats:
@@ -1781,3 +1782,11 @@ items:
     type: necklace
     quality: elite
     found: Crafted
+  - name: Skull Cross
+    level: 10
+    stats:
+      hp: 3%
+    sell_price: 50
+    type: artifact
+    quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
