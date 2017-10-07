@@ -7,7 +7,7 @@ items:
       attack_speed: 0.01s
       def: 1-2
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 1
     sell_price: 0
     type: dualwield
@@ -19,7 +19,7 @@ items:
       attack_speed: 0.01s
       def: 2-4
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 25
     sell_price: 12
     type: dualwield
@@ -31,7 +31,7 @@ items:
       attack_speed: 0.01s
       def: 2-4
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 50
     sell_price: 25
     type: dualwield
@@ -43,7 +43,7 @@ items:
       attack_speed: 0.01s
       def: 2-4
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 75
     sell_price: 37
     type: dualwield
@@ -55,7 +55,7 @@ items:
       attack_speed: 0.01s
       def: 3-6
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 100
     sell_price: 50
     type: dualwield
@@ -67,7 +67,7 @@ items:
       attack_speed: 0.01s
       def: 3-6
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 150
     sell_price: 75
     type: dualwield
@@ -79,7 +79,7 @@ items:
       attack_speed: 0.01s
       def: 3-6
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 200
     sell_price: 100
     type: dualwield
@@ -91,7 +91,7 @@ items:
       attack_speed: 0.01s
       def: 4-8
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 250
     sell_price: 125
     type: dualwield
@@ -103,7 +103,7 @@ items:
       attack_speed: 0.01s
       def: 4-8
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 300
     sell_price: 150
     type: dualwield
@@ -115,7 +115,7 @@ items:
       attack_speed: 0.01s
       def: 4-8
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     buy_price: 500
     sell_price: 250
     type: dualwield
@@ -127,7 +127,7 @@ items:
       attack_speed: 0.5s
       def: 2-4
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 1
     sell_price: 0
     type: onehander
@@ -139,7 +139,7 @@ items:
       attack_speed: 0.5s
       def: 3-6
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 25
     sell_price: 12
     type: onehander
@@ -151,7 +151,7 @@ items:
       attack_speed: 0.5s
       def: 3-6
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 50
     sell_price: 25
     type: onehander
@@ -163,7 +163,7 @@ items:
       attack_speed: 0.5s
       def: 3-6
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 75
     sell_price: 37
     type: onehander
@@ -175,7 +175,7 @@ items:
       attack_speed: 0.5s
       def: 4-8
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 100
     sell_price: 50
     type: onehander
@@ -187,7 +187,7 @@ items:
       attack_speed: 0.5s
       def: 4-8
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 150
     sell_price: 75
     type: onehander
@@ -199,7 +199,7 @@ items:
       attack_speed: 0.5s
       def: 4-8
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 200
     sell_price: 100
     type: onehander
@@ -211,7 +211,7 @@ items:
       attack_speed: 0.5s
       def: 5-10
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 250
     sell_price: 125
     type: onehander
@@ -223,7 +223,7 @@ items:
       attack_speed: 0.5s
       def: 5-10
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 300
     sell_price: 150
     type: onehander
@@ -235,7 +235,7 @@ items:
       attack_speed: 0.5s
       def: 5-10
       crit: 18%
-      crit_power: 2%
+      crit_power: 2.0
     buy_price: 500
     sell_price: 250
     type: onehander
@@ -247,7 +247,7 @@ items:
       attack_speed: 1s
       def: 1-2
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 1
     sell_price: 0
     type: twohander
@@ -259,7 +259,7 @@ items:
       attack_speed: 1s
       def: 2-4
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 25
     sell_price: 12
     type: twohander
@@ -271,7 +271,7 @@ items:
       attack_speed: 1s
       def: 2-4
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 50
     sell_price: 25
     type: twohander
@@ -283,7 +283,7 @@ items:
       attack_speed: 1s
       def: 2-4
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 75
     sell_price: 37
     type: twohander
@@ -295,7 +295,7 @@ items:
       attack_speed: 1s
       def: 3-6
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 100
     sell_price: 50
     type: twohander
@@ -307,7 +307,7 @@ items:
       attack_speed: 1s
       def: 3-6
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 150
     sell_price: 75
     type: twohander
@@ -319,7 +319,7 @@ items:
       attack_speed: 1s
       def: 3-6
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 200
     sell_price: 100
     type: twohander
@@ -331,7 +331,7 @@ items:
       attack_speed: 1s
       def: 4-8
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 250
     sell_price: 125
     type: twohander
@@ -343,7 +343,7 @@ items:
       attack_speed: 1s
       def: 4-8
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 300
     sell_price: 150
     type: twohander
@@ -355,7 +355,7 @@ items:
       attack_speed: 1s
       def: 4-8
       crit: 16%
-      crit_power: 15%
+      crit_power: 1.5
     buy_price: 500
     sell_price: 250
     type: twohander
@@ -367,7 +367,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 1
     sell_price: 0
     type: bow
@@ -379,7 +379,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 25
     sell_price: 12
     type: bow
@@ -391,7 +391,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 50
     sell_price: 25
     type: bow
@@ -403,7 +403,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 75
     sell_price: 37
     type: bow
@@ -415,7 +415,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 100
     sell_price: 50
     type: bow
@@ -427,7 +427,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 150
     sell_price: 75
     type: bow
@@ -439,7 +439,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 200
     sell_price: 100
     type: bow
@@ -451,7 +451,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 250
     sell_price: 125
     type: bow
@@ -463,7 +463,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 300
     sell_price: 150
     type: bow
@@ -475,7 +475,7 @@ items:
       attack_speed: 0.25s
       def: 0-0
       crit: 20%
-      crit_power: 19%
+      crit_power: 1.9
     buy_price: 500
     sell_price: 250
     type: bow
@@ -487,7 +487,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 1
     sell_price: 0
     type: rod
@@ -499,7 +499,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 25
     sell_price: 12
     type: rod
@@ -511,7 +511,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 50
     sell_price: 25
     type: rod
@@ -523,7 +523,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 75
     sell_price: 37
     type: rod
@@ -535,7 +535,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 100
     sell_price: 50
     type: rod
@@ -547,7 +547,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 150
     sell_price: 75
     type: rod
@@ -559,7 +559,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 200
     sell_price: 100
     type: rod
@@ -571,7 +571,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 250
     sell_price: 125
     type: rod
@@ -583,7 +583,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 300
     sell_price: 150
     type: rod
@@ -595,7 +595,7 @@ items:
       attack_speed: 1.6s
       def: 0-0
       crit: 15%
-      crit_power: 16%
+      crit_power: 1.6
     buy_price: 500
     sell_price: 250
     type: rod
@@ -607,7 +607,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 60
     sell_price: 30
     type: cannon
@@ -619,7 +619,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 100
     sell_price: 50
     type: cannon
@@ -631,7 +631,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 125
     sell_price: 62
     type: cannon
@@ -643,7 +643,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 175
     sell_price: 87
     type: cannon
@@ -655,7 +655,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 225
     sell_price: 112
     type: cannon
@@ -667,7 +667,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 275
     sell_price: 137
     type: cannon
@@ -679,7 +679,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 325
     sell_price: 162
     type: cannon
@@ -691,7 +691,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 525
     sell_price: 262
     type: cannon
@@ -703,7 +703,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 725
     sell_price: 362
     type: cannon
@@ -715,7 +715,7 @@ items:
       attack_speed: 3s
       def: 0-0
       crit: 10%
-      crit_power: 18%
+      crit_power: 1.8
     buy_price: 999
     sell_price: 499
     type: cannon
@@ -888,7 +888,7 @@ items:
       attack_speed: 0.01s
       def: 2-5
       crit: 26%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 12
     type: dualwield
     quality: unique
@@ -900,7 +900,7 @@ items:
       attack_speed: 0.01s
       def: 2-7
       crit: 27%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 25
     type: dualwield
     quality: unique
@@ -911,7 +911,7 @@ items:
       attack_speed: 0.02s
       def: 3-7
       crit: 26%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 75
     type: dualwield
     quality: unique
@@ -922,7 +922,7 @@ items:
       attack_speed: 0.01s
       def: 4-9
       crit: 27%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 125
     type: dualwield
     quality: unique
@@ -933,7 +933,7 @@ items:
       attack_speed: 0.47s
       def: 3-7
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 12
     type: onehander
     quality: unique
@@ -945,7 +945,7 @@ items:
       attack_speed: 0.45s
       def: 4-11
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 75
     type: onehander
     quality: unique
@@ -956,7 +956,7 @@ items:
       attack_speed: 0.44s
       def: 5-12
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 125
     type: onehander
     quality: unique
@@ -967,7 +967,7 @@ items:
       attack_speed: 0.95s
       def: 3-7
       crit: 17%
-      crit_power: 16%
+      crit_power: 1.6
     sell_price: 75
     type: twohander
     quality: unique
@@ -978,7 +978,7 @@ items:
       attack_speed: 0.96s
       def: 4-9
       crit: 17%
-      crit_power: 16%
+      crit_power: 1.6
     sell_price: 125
     type: twohander
     quality: unique
@@ -989,7 +989,7 @@ items:
       attack_speed: 0.21s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 25
     type: bow
     quality: unique
@@ -1000,7 +1000,7 @@ items:
       attack_speed: 0.2s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 75
     type: bow
     quality: unique
@@ -1011,7 +1011,7 @@ items:
       attack_speed: 0.43s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 125
     type: bow
     quality: unique
@@ -1022,7 +1022,7 @@ items:
       attack_speed: 1.56s
       def: 0-0
       crit: 16%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 12
     type: rod
     quality: unique
@@ -1034,7 +1034,7 @@ items:
       attack_speed: 1.54s
       def: 0-0
       crit: 16%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 125
     type: rod
     quality: unique
@@ -1045,7 +1045,7 @@ items:
       attack_speed: 2.98s
       def: 0-0
       crit: 11%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 15
     type: cannon
     quality: unique
@@ -1056,7 +1056,7 @@ items:
       attack_speed: 3.1s
       def: 0-0
       crit: 14%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 30
     type: cannon
     quality: unique
@@ -1067,7 +1067,7 @@ items:
       attack_speed: 2.97s
       def: 0-0
       crit: 11%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 95
     type: cannon
     quality: unique
@@ -1078,7 +1078,7 @@ items:
       attack_speed: 2.96s
       def: 0-0
       crit: 11%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 150
     type: cannon
     quality: unique
@@ -1147,7 +1147,7 @@ items:
       attack_speed: 0.02s
       def: 3-6
       crit: 28%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 50
     type: dualwield
     quality: rare
@@ -1158,7 +1158,7 @@ items:
       attack_speed: 0.01s
       def: 5-9
       crit: 27%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 150
     type: dualwield
     quality: rare
@@ -1169,7 +1169,7 @@ items:
       attack_speed: 0.47s
       def: 4-8
       crit: 20%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 50
     type: onehander
     quality: rare
@@ -1180,7 +1180,7 @@ items:
       attack_speed: 0.48s
       def: 5-9
       crit: 20%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 99
     type: onehander
     quality: rare
@@ -1191,7 +1191,7 @@ items:
       attack_speed: 0.97s
       def: 4-7
       crit: 18%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 99
     type: twohander
     quality: rare
@@ -1202,7 +1202,7 @@ items:
       attack_speed: 0.98s
       def: 5-9
       crit: 18%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 150
     type: twohander
     quality: rare
@@ -1213,7 +1213,7 @@ items:
       attack_speed: 0.22s
       def: 0-0
       crit: 22%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 99
     type: bow
     quality: rare
@@ -1224,7 +1224,7 @@ items:
       attack_speed: 1.57s
       def: 0-0
       crit: 17%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 50
     type: rod
     quality: rare
@@ -1235,7 +1235,7 @@ items:
       attack_speed: 2.95s
       def: 0-0
       crit: 12%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 165
     type: cannon
     quality: rare
@@ -1295,7 +1295,7 @@ items:
       attack_speed: 1.56s
       def: 0-0
       crit: 19%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 250
     type: rod
     quality: very rare
@@ -1358,7 +1358,7 @@ items:
       attack_speed: 0.46s
       def: 3-9
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 25
     type: onehander
     quality: unique
@@ -1369,7 +1369,7 @@ items:
       attack_speed: 0.99s
       def: 2-5
       crit: 17%
-      crit_power: 16%
+      crit_power: 1.6
     sell_price: 12
     type: twohander
     quality: unique
@@ -1381,7 +1381,7 @@ items:
       attack_speed: 0.45s
       def: 6-11
       crit: 20%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 150
     type: onehander
     quality: rare
@@ -1392,7 +1392,7 @@ items:
       attack_speed: 0.45a
       def: 5-13
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 225
     type: onehander
     quality: unique
@@ -1403,7 +1403,7 @@ items:
       attack_speed: 0.2s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 225
     type: bow
     quality: unique
@@ -1414,7 +1414,7 @@ items:
       attack_speed: 2.99s
       def: 0-0
       crit: 11%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 250
     type: cannon
     quality: unique
@@ -1425,7 +1425,7 @@ items:
       attack_speed: 0.01s
       def: 4-10
       crit: 26%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 225
     type: dualwield
     quality: unique
@@ -1436,7 +1436,7 @@ items:
       attack_speed: 0.98s
       def: 4-10
       crit: 17%
-      crit_power: 16%
+      crit_power: 1.6
     sell_price: 225
     type: twohander
     quality: unique
@@ -1463,7 +1463,7 @@ items:
       attack_speed: 3.05s
       def: 0-0
       crit: 12%
-      crit_power: 19%
+      crit_power: 1.9
     sell_price: 265
     type: cannon
     quality: rare
@@ -1474,7 +1474,7 @@ items:
       attack_speed: 1.55s
       def: 0-0
       crit: 16%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 225
     type: rod
     quality: unique
@@ -1494,7 +1494,7 @@ items:
       attack_speed: 0.47s
       def: 6-12
       crit: 20%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 250
     type: onehander
     quality: rare
@@ -1505,7 +1505,7 @@ items:
       attack_speed: 0.99s
       def: 5-10
       crit: 18%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 250
     type: twohander
     quality: rare
@@ -1516,7 +1516,7 @@ items:
       attack_speed: 0.01s
       def: 5-10
       crit: 27%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 250
     type: dualwield
     quality: rare
@@ -1527,7 +1527,7 @@ items:
       attack_speed: 0.21s
       def: 0-0
       crit: 22%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 250
     type: bow
     quality: rare
@@ -1569,7 +1569,7 @@ items:
       attack_speed: 1.59s
       def: 0-0
       crit: 17%
-      crit_power: 17%
+      crit_power: 1.7
     sell_price: 250
     type: rod
     quality: rare
@@ -1580,7 +1580,7 @@ items:
       attack_speed: 0.15s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 335
     type: bow
     quality: unique
@@ -1592,7 +1592,7 @@ items:
       attack_speed: 0.01s
       def: 5-11
       crit: 26%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 335
     type: dualwield
     quality: unique
@@ -1604,7 +1604,7 @@ items:
       attack_speed: 0.95s
       def: 7-12
       crit: 22%
-      crit_power: 18%
+      crit_power: 1.8
     sell_price: 500
     type: twohander
     quality: elite
@@ -1616,7 +1616,7 @@ items:
       attack_speed: 0.22s
       def: 0-0
       crit: 22%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 400
     type: bow
     quality: rare
@@ -1637,7 +1637,7 @@ items:
       attack_speed: 0.96s
       def: 5-11
       crit: 17%
-      crit_power: 16%
+      crit_power: 1.6
     sell_price: 335
     type: twohander
     quality: unique
@@ -1649,7 +1649,7 @@ items:
       attack_speed: 0.46s
       def: 6-13
       crit: 19%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 335
     type: onehander
     quality: unique
@@ -1677,7 +1677,7 @@ items:
       attack_speed: 0.23s
       def: 0-0
       crit: 21%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 12
     type: bow
     quality: unique
@@ -1698,7 +1698,7 @@ items:
       attack_speed: 0.01s
       def: 3-7
       crit: 30%
-      crit_power: 23%
+      crit_power: 2.3
     sell_price: 100
     type: dualwield
     quality: elite
@@ -1710,7 +1710,7 @@ items:
       attack_speed: 0.45s
       def: 4-9
       crit: 23%
-      crit_power: 22%
+      crit_power: 2.2
     sell_price: 100
     type: onehander
     quality: elite
@@ -1722,7 +1722,7 @@ items:
       attack_speed: 0.95s
       def: 3-7
       crit: 21%
-      crit_power: 18%
+      crit_power: 1.8
     sell_price: 100
     type: twohander
     quality: elite
@@ -1734,7 +1734,7 @@ items:
       attack_speed: 0.2s
       def: 0-0
       crit: 25%
-      crit_power: 21%
+      crit_power: 2.1
     sell_price: 100
     type: bow
     quality: elite
@@ -1746,7 +1746,7 @@ items:
       attack_speed: 1.55s
       def: 0-0
       crit: 20%
-      crit_power: 18%
+      crit_power: 1.8
     sell_price: 100
     type: rod
     quality: elite
@@ -1758,7 +1758,7 @@ items:
       attack_speed: 2.95s
       def: 0-0
       crit: 15%
-      crit_power: 2%
+      crit_power: 2.0
     sell_price: 125
     type: cannon
     quality: elite
