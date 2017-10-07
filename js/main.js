@@ -9,7 +9,12 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function load_all_items() {
-	items = YAML.load('data/items.yaml').items;
+	try {
+		items = YAML.load('data/items.yaml').items;
+	} catch (err) {
+		items = [{"buy_price": 1, "level": 1, "name" : "Test Item", "quality": "ordinary", "sell_price" : 0, "stats": {"test_stat_1": "1-1", "test_stat_2": "2-2", "test_stat_3": "3-3"}, "type": "rod"}];
+	}
+	console.log(items);
 }
 
 function sort_items() {
