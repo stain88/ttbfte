@@ -1,14 +1,22 @@
 var items;
 
 document.addEventListener('DOMContentLoaded', function() {
-	items = YAML.load('data/items.yaml').items;
+	load_all_items();
 
 	sort_items("name");
 
 	draw_table();
 });
 
-function sort_items(sort_value) {
+function load_all_items() {
+	items = YAML.load('data/items.yaml').items;
+}
+
+function sort_items() {
+	var radios = Array.from(document.querySelectorAll("input[name='sortradio']"));
+	var sort_value = radios.filter(function(radio) {
+		return radio.checked;
+	})[0].value;
 	var type_sort = ["dualwield","onehander","twohander","bow","rod","cannon","ring","necklace","artifact"];
 	var quality_sort = ["ordinary","unique","rare","very rare","elite"];
 	items.sort(function(a, b) {
