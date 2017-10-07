@@ -1790,3 +1790,93 @@ items:
     type: artifact
     quality: rare
     found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Notorious Dirks
+    level: 20
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-6
+      crit: 30%
+      crit_power: 2.3
+    sell_price: 200
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Sharp Bone Rapier
+    level: 20
+    stats:
+      attack: 83-93
+      attack_speed: 0.45s
+      def: 5-8
+      crit: 23%
+      crit_power: 2.2
+    sell_price: 200
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Partner In Crime
+    level: 20
+    stats:
+      attack: 166-176
+      attack_speed: 0.95s
+      def: 4-6
+      crit: 21%
+      crit_power: 1.8
+    sell_price: 200
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Bone Long Bow
+    level: 20
+    stats:
+      attack: 78-88
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 2.1
+    sell_price: 200
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Ruin Dwellers Rod
+    level: 20
+    stats:
+      attack: 83-88
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.8
+    sell_price: 200
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Monster Megathorn
+    level: 20
+    stats:
+      attack: 216-226
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2
+    sell_price: 225
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Eclipse Necklace
+    level: 20
+    stats:
+      def: 7-14
+      hp: 410
+    sell_price: 225
+    type: necklace
+    quality: elite
+    found: Crafted
+  - name: Dark Moon Ring
+    level: 20
+    stats:
+      attack: 7%
+      attack_speed: 330
+    sell_price: 225
+    type: ring
+    quality: elite
+    found: Crafted
