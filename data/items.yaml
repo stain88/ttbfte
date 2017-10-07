@@ -1,0 +1,1665 @@
+---
+items:
+  - name: Wooden Daggers
+    level: 1
+    stats:
+      attack: 13-17
+      attack_speed: 0.01s
+      def: 1-2
+      crit: 25%
+      crit_power: 21%
+    buy_price: 1
+    sell_price: 0
+    type: dualwield
+    quality: ordinary
+  - name: Rusty Daggers
+    level: 5
+    stats:
+      attack: 14-18
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 21%
+    buy_price: 25
+    sell_price: 12
+    type: dualwield
+    quality: ordinary
+  - name: Kitchen Knives
+    level: 10
+    stats:
+      attack: 16-20
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 21%
+    buy_price: 50
+    sell_price: 25
+    type: dualwield
+    quality: ordinary
+  - name: Stilettos
+    level: 15
+    stats:
+      attack: 17-21
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 21%
+    buy_price: 75
+    sell_price: 37
+    type: dualwield
+    quality: ordinary
+  - name: Hunters Knives
+    level: 20
+    stats:
+      attack: 18-22
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 21%
+    buy_price: 100
+    sell_price: 50
+    type: dualwield
+    quality: ordinary
+  - name: Long Daggers
+    level: 25
+    stats:
+      attack: 19-23
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 21%
+    buy_price: 150
+    sell_price: 75
+    type: dualwield
+    quality: ordinary
+  - name: Rondel Daggers
+    level: 30
+    stats:
+      attack: 21-25
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 21%
+    buy_price: 200
+    sell_price: 100
+    type: dualwield
+    quality: ordinary
+  - name: Baselards
+    level: 35
+    stats:
+      attack: 22-26
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 21%
+    buy_price: 250
+    sell_price: 125
+    type: dualwield
+    quality: ordinary
+  - name: Pugiones
+    level: 40
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 21%
+    buy_price: 300
+    sell_price: 150
+    type: dualwield
+    quality: ordinary
+  - name: Ear Daggers
+    level: 45
+    stats:
+      attack: 24-28
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 21%
+    buy_price: 500
+    sell_price: 250
+    type: dualwield
+    quality: ordinary
+  - name: Wooden Sword
+    level: 1
+    stats:
+      attack: 50-60
+      attack_speed: 0.5s
+      def: 2-4
+      crit: 18%
+      crit_power: 2%
+    buy_price: 1
+    sell_price: 0
+    type: onehander
+    quality: ordinary
+  - name: Dark Torch
+    level: 5
+    stats:
+      attack: 55-65
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2%
+    buy_price: 25
+    sell_price: 12
+    type: onehander
+    quality: ordinary
+  - name: Sharp Harpoon
+    level: 10
+    stats:
+      attack: 60-70
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2%
+    buy_price: 50
+    sell_price: 25
+    type: onehander
+    quality: ordinary
+  - name: Spiked Club
+    level: 15
+    stats:
+      attack: 65-75
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2%
+    buy_price: 75
+    sell_price: 37
+    type: onehander
+    quality: ordinary
+  - name: Rusty Pick
+    level: 20
+    stats:
+      attack: 70-80
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2%
+    buy_price: 100
+    sell_price: 50
+    type: onehander
+    quality: ordinary
+  - name: Machete
+    level: 25
+    stats:
+      attack: 75-85
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2%
+    buy_price: 150
+    sell_price: 75
+    type: onehander
+    quality: ordinary
+  - name: Shillelagh
+    level: 30
+    stats:
+      attack: 80-90
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2%
+    buy_price: 200
+    sell_price: 100
+    type: onehander
+    quality: ordinary
+  - name: Short Sword
+    level: 35
+    stats:
+      attack: 85-99
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2%
+    buy_price: 250
+    sell_price: 125
+    type: onehander
+    quality: ordinary
+  - name: Rusty Axe
+    level: 40
+    stats:
+      attack: 90-100
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2%
+    buy_price: 300
+    sell_price: 150
+    type: onehander
+    quality: ordinary
+  - name: Straight Sword
+    level: 45
+    stats:
+      attack: 95-105
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2%
+    buy_price: 500
+    sell_price: 250
+    type: onehander
+    quality: ordinary
+  - name: Two Handed Practice Sword
+    level: 1
+    stats:
+      attack: 100-110
+      attack_speed: 1s
+      def: 1-2
+      crit: 16%
+      crit_power: 15%
+    buy_price: 1
+    sell_price: 0
+    type: twohander
+    quality: ordinary
+  - name: Maul
+    level: 5
+    stats:
+      attack: 110-120
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 15%
+    buy_price: 25
+    sell_price: 12
+    type: twohander
+    quality: ordinary
+  - name: Rusty Greatsword
+    level: 10
+    stats:
+      attack: 120-130
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 15%
+    buy_price: 50
+    sell_price: 25
+    type: twohander
+    quality: ordinary
+  - name: Heavy Glaive
+    level: 15
+    stats:
+      attack: 130-140
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 15%
+    buy_price: 75
+    sell_price: 37
+    type: twohander
+    quality: ordinary
+  - name: Two Handed Sword
+    level: 20
+    stats:
+      attack: 140-150
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 15%
+    buy_price: 100
+    sell_price: 50
+    type: twohander
+    quality: ordinary
+  - name: Two Handed Axe
+    level: 25
+    stats:
+      attack: 150-160
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 15%
+    buy_price: 150
+    sell_price: 75
+    type: twohander
+    quality: ordinary
+  - name: Bastard Sword
+    level: 30
+    stats:
+      attack: 160-170
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 15%
+    buy_price: 200
+    sell_price: 100
+    type: twohander
+    quality: ordinary
+  - name: Two Handed Estoc
+    level: 35
+    stats:
+      attack: 170-180
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 15%
+    buy_price: 250
+    sell_price: 125
+    type: twohander
+    quality: ordinary
+  - name: Espada Bastarda
+    level: 40
+    stats:
+      attack: 180-190
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 15%
+    buy_price: 300
+    sell_price: 150
+    type: twohander
+    quality: ordinary
+  - name: Hand And A Half Sword
+    level: 45
+    stats:
+      attack: 190-200
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 15%
+    buy_price: 500
+    sell_price: 250
+    type: twohander
+    quality: ordinary
+  - name: Simple Bow
+    level: 1
+    stats:
+      attack: 45-55
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 1
+    sell_price: 0
+    type: bow
+    quality: ordinary
+  - name: Short Bow
+    level: 5
+    stats:
+      attack: 50-60
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 25
+    sell_price: 12
+    type: bow
+    quality: ordinary
+  - name: Citizens Self Bow
+    level: 10
+    stats:
+      attack: 55-65
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 50
+    sell_price: 25
+    type: bow
+    quality: ordinary
+  - name: Nomad Bow
+    level: 15
+    stats:
+      attack: 60-70
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 75
+    sell_price: 37
+    type: bow
+    quality: ordinary
+  - name: Adventurer Short Bow
+    level: 20
+    stats:
+      attack: 65-75
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 100
+    sell_price: 50
+    type: bow
+    quality: ordinary
+  - name: Ambassadors Flatbow
+    level: 25
+    stats:
+      attack: 70-80
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 150
+    sell_price: 75
+    type: bow
+    quality: ordinary
+  - name: Hunting Bow
+    level: 30
+    stats:
+      attack: 75-85
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 200
+    sell_price: 100
+    type: bow
+    quality: ordinary
+  - name: Horn Bow
+    level: 35
+    stats:
+      attack: 80-90
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 250
+    sell_price: 125
+    type: bow
+    quality: ordinary
+  - name: Soldiers Recurve Bow
+    level: 40
+    stats:
+      attack: 85-95
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 300
+    sell_price: 150
+    type: bow
+    quality: ordinary
+  - name: Arming Bow
+    level: 45
+    stats:
+      attack: 90-100
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 19%
+    buy_price: 500
+    sell_price: 250
+    type: bow
+    quality: ordinary
+  - name: Wooden Rod
+    level: 1
+    stats:
+      attack: 50-55
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 1
+    sell_price: 0
+    type: rod
+    quality: ordinary
+  - name: Shepherd Rod
+    level: 5
+    stats:
+      attack: 55-60
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 25
+    sell_price: 12
+    type: rod
+    quality: ordinary
+  - name: Miner Cane
+    level: 10
+    stats:
+      attack: 60-65
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 50
+    sell_price: 25
+    type: rod
+    quality: ordinary
+  - name: Rusty Scepter
+    level: 15
+    stats:
+      attack: 65-70
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 75
+    sell_price: 37
+    type: rod
+    quality: ordinary
+  - name: Cursing Rod
+    level: 20
+    stats:
+      attack: 70-75
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 100
+    sell_price: 50
+    type: rod
+    quality: ordinary
+  - name: Village Blesser
+    level: 25
+    stats:
+      attack: 75-80
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 150
+    sell_price: 75
+    type: rod
+    quality: ordinary
+  - name: Wind Controller
+    level: 30
+    stats:
+      attack: 80-85
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 200
+    sell_price: 100
+    type: rod
+    quality: ordinary
+  - name: Green Star Rod
+    level: 35
+    stats:
+      attack: 85-90
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 250
+    sell_price: 125
+    type: rod
+    quality: ordinary
+  - name: Subterranean Crook
+    level: 40
+    stats:
+      attack: 90-95
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 300
+    sell_price: 150
+    type: rod
+    quality: ordinary
+  - name: Shamans Stick
+    level: 45
+    stats:
+      attack: 95-100
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 16%
+    buy_price: 500
+    sell_price: 250
+    type: rod
+    quality: ordinary
+  - name: Hand Cannon
+    level: 10
+    stats:
+      attack: 170-180
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 60
+    sell_price: 30
+    type: cannon
+    quality: ordinary
+  - name: Shoulder Cannon
+    level: 15
+    stats:
+      attack: 180-190
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 100
+    sell_price: 50
+    type: cannon
+    quality: ordinary
+  - name: Rusty Saker
+    level: 20
+    stats:
+      attack: 190-200
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 125
+    sell_price: 62
+    type: cannon
+    quality: ordinary
+  - name: Town Cannon
+    level: 25
+    stats:
+      attack: 200-210
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 175
+    sell_price: 87
+    type: cannon
+    quality: ordinary
+  - name: Iron Falconet
+    level: 30
+    stats:
+      attack: 210-220
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 225
+    sell_price: 112
+    type: cannon
+    quality: ordinary
+  - name: Demi Cannon
+    level: 35
+    stats:
+      attack: 220-230
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 275
+    sell_price: 137
+    type: cannon
+    quality: ordinary
+  - name: Ruined Carronade
+    level: 40
+    stats:
+      attack: 230-240
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 325
+    sell_price: 162
+    type: cannon
+    quality: ordinary
+  - name: Relief Culverin
+    level: 45
+    stats:
+      attack: 240-250
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 525
+    sell_price: 262
+    type: cannon
+    quality: ordinary
+  - name: Shadow Blaster
+    level: 50
+    stats:
+      attack: 250-260
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 725
+    sell_price: 362
+    type: cannon
+    quality: ordinary
+  - name: Minion
+    level: 55
+    stats:
+      attack: 260-270
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 18%
+    buy_price: 999
+    sell_price: 499
+    type: cannon
+    quality: ordinary
+  - name: Rotten Wooden Ring
+    level: 1
+    stats:
+      attack: 1%
+      hp: 40
+    buy_price: 25
+    sell_price: 12
+    type: ring
+    quality: ordinary
+  - name: Simple Ring
+    level: 5
+    stats:
+      attack: 2%
+      hp: 80
+    buy_price: 50
+    sell_price: 25
+    type: ring
+    quality: ordinary
+  - name: Metal Ring
+    level: 10
+    stats:
+      attack: 3%
+      hp: 120
+    buy_price: 100
+    sell_price: 50
+    type: ring
+    quality: ordinary
+  - name: BOs Ring
+    level: 15
+    stats:
+      attack: 4%
+      hp: 160
+    buy_price: 250
+    sell_price: 125
+    type: ring
+    quality: ordinary
+  - name: Thumb Ring
+    level: 20
+    stats:
+      attack: 5%
+      hp: 200
+    buy_price: 500
+    sell_price: 250
+    type: ring
+    quality: ordinary
+  - name: Warriors Seal
+    level: 25
+    stats:
+      attack: 6%
+      hp: 240
+    buy_price: 999
+    sell_price: 499
+    type: ring
+    quality: ordinary
+  - name: Silver Ring
+    level: 30
+    stats:
+      attack: 7%
+      hp: 280
+    buy_price: 2250
+    sell_price: 1125
+    type: ring
+    quality: ordinary
+  - name: Ambassadors Ring
+    level: 35
+    stats:
+      attack: 8%
+      hp: 320
+    buy_price: 5000
+    sell_price: 2500
+    type: ring
+    quality: ordinary
+  - name: Engraved Silver Ring
+    level: 40
+    stats:
+      attack: 9%
+      hp: 360
+    buy_price: 12500
+    sell_price: 6250
+    type: ring
+    quality: ordinary
+  - name: Simple Wooden Necklace
+    level: 1
+    stats:
+      def: 0-1
+      hp: 50
+    buy_price: 25
+    sell_price: 12
+    type: necklace
+    quality: ordinary
+  - name: Commoner Necklace
+    level: 5
+    stats:
+      def: 1-2
+      hp: 100
+    buy_price: 50
+    sell_price: 25
+    type: necklace
+    quality: ordinary
+  - name: Soldiers Amulet
+    level: 10
+    stats:
+      def: 2-4
+      hp: 150
+    buy_price: 100
+    sell_price: 50
+    type: necklace
+    quality: ordinary
+  - name: Hunters Necklace
+    level: 15
+    stats:
+      def: 3-6
+      hp: 200
+    buy_price: 250
+    sell_price: 125
+    type: necklace
+    quality: ordinary
+  - name: Travelers Necklace
+    level: 20
+    stats:
+      def: 4-8
+      hp: 250
+    buy_price: 500
+    sell_price: 250
+    type: necklace
+    quality: ordinary
+  - name: Warriors Pendant
+    level: 25
+    stats:
+      def: 5-10
+      hp: 300
+    buy_price: 999
+    sell_price: 499
+    type: necklace
+    quality: ordinary
+  - name: Shell Necklace
+    level: 30
+    stats:
+      def: 6-12
+    buy_price: 2250
+    sell_price: 1125
+    type: necklace
+    quality: ordinary
+  - name: Fang Necklace
+    level: 35
+    stats:
+      def: 7-14
+      hp: 400
+    buy_price: 5000
+    sell_price: 2500
+    type: necklace
+    quality: ordinary
+  - name: Guardian Silver Pendant
+    level: 40
+    stats:
+      def: 8-16
+      hp: 450
+    buy_price: 12500
+    sell_price: 6250
+    type: necklace
+    quality: ordinary
+  - name: Bone Misericordes
+    level: 4
+    stats:
+      attack: 15-19
+      attack_speed: 0.01s
+      def: 2-5
+      crit: 26%
+      crit_power: 22%
+    sell_price: 12
+    type: dualwield
+    quality: unique
+  - name: Carnwennans
+    level: 14
+    stats:
+      attack: 17-22
+      attack_speed: 0.01s
+      def: 2-7
+      crit: 27%
+      crit_power: 22%
+    sell_price: 25
+    type: dualwield
+    quality: unique
+  - name: Skeletons Sidearms
+    level: 24
+    stats:
+      attack: 20-24
+      attack_speed: 0.02s
+      def: 3-7
+      crit: 26%
+      crit_power: 22%
+    sell_price: 75
+    type: dualwield
+    quality: unique
+  - name: Strange Scalpels
+    level: 34
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-9
+      crit: 27%
+      crit_power: 22%
+    sell_price: 125
+    type: dualwield
+    quality: unique
+  - name: Wooden Mallet
+    level: 4
+    stats:
+      attack: 58-63
+      attack_speed: 0.47s
+      def: 3-7
+      crit: 19%
+      crit_power: 21%
+    sell_price: 12
+    type: onehander
+    quality: unique
+  - name: Flanged Bone Mace
+    level: 24
+    stats:
+      attack: 78-88
+      attack_speed: 0.45s
+      def: 4-11
+      crit: 19%
+      crit_power: 21%
+    sell_price: 75
+    type: onehander
+    quality: unique
+  - name: Octopus Hook
+    level: 34
+    stats:
+      attack: 88-98
+      attack_speed: 0.44s
+      def: 5-12
+      crit: 19%
+      crit_power: 21%
+    sell_price: 125
+    type: onehander
+    quality: unique
+  - name: Long Pickaxe
+    level: 24
+    stats:
+      attack: 158-168
+      attack_speed: 0.95s
+      def: 3-7
+      crit: 17%
+      crit_power: 16%
+    sell_price: 75
+    type: twohander
+    quality: unique
+  - name: Sharp Fish Dadao
+    level: 34
+    stats:
+      attack: 178-188
+      attack_speed: 0.96s
+      def: 4-9
+      crit: 17%
+      crit_power: 16%
+    sell_price: 125
+    type: twohander
+    quality: unique
+  - name: Old Ruin Horn Bow
+    level: 14
+    stats:
+      attack: 63-73
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 25
+    type: bow
+    quality: unique
+  - name: Spider Bow
+    level: 24
+    stats:
+      attack: 73-83
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 75
+    type: bow
+    quality: unique
+  - name: Sailors Recurve Bow
+    level: 34
+    stats:
+      attack: 83-93
+      attack_speed: 0.43s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 125
+    type: bow
+    quality: unique
+  - name: Traveler's Stick
+    level: 4
+    stats:
+      attack: 58-63
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 16%
+      crit_power: 17%
+    sell_price: 12
+    type: rod
+    quality: unique
+  - name: Secret River Wand
+    level: 34
+    stats:
+      attack: 88-93
+      attack_speed: 1.54s
+      def: 0-0
+      crit: 16%
+      crit_power: 17%
+    sell_price: 125
+    type: rod
+    quality: unique
+  - name: Field Gun
+    level: 4
+    stats:
+      attack: 165-175
+      attack_speed: 2.98s
+      def: 0-0
+      crit: 11%
+      crit_power: 19%
+    sell_price: 15
+    type: cannon
+    quality: unique
+  - name: Blasphemous Howitzer
+    level: 14
+    stats:
+      attack: 185-195
+      attack_speed: 3.1s
+      def: 0-0
+      crit: 14%
+      crit_power: 19%
+    sell_price: 30
+    type: cannon
+    quality: unique
+  - name: Wall Destroyer
+    level: 24
+    stats:
+      attack: 205-215
+      attack_speed: 2.97s
+      def: 0-0
+      crit: 11%
+      crit_power: 19%
+    sell_price: 95
+    type: cannon
+    quality: unique
+  - name: Naval Cannon
+    level: 34
+    stats:
+      attack: 225-235
+      attack_speed: 2.96s
+      def: 0-0
+      crit: 11%
+      crit_power: 19%
+    sell_price: 150
+    type: cannon
+    quality: unique
+  - name: Old Moon
+    level: 14
+    stats:
+      attack: 4%
+      hp: 180
+    sell_price: 50
+    type: ring
+    quality: unique
+  - name: Grotto Ring
+    level: 24
+    stats:
+      attack: 6%
+      hp: 250
+    sell_price: 80
+    type: ring
+    quality: unique
+  - name: Fighters Ring
+    level: 30
+    stats:
+      attack: 9%
+      hp: 350
+    sell_price: 150
+    type: ring
+    quality: unique
+    found: Fishing Rank 1
+  - name: Skeleton Necklace
+    level: 4
+    stats:
+      def: 2-3
+      hp: 125
+    sell_price: 15
+    type: necklace
+    quality: unique
+  - name: Path Of The Moon
+    level: 14
+    stats:
+      def: 4-7
+      hp: 225
+    sell_price: 50
+    type: necklace
+    quality: unique
+  - name: Greed Necklace
+    level: 24
+    stats:
+      def: 6-11
+      hp: 325
+    sell_price: 80
+    type: necklace
+    quality: unique
+  - name: Wicingas Necklace
+    level: 34
+    stats:
+      def: 8-15
+      hp: 425
+    sell_price: 135
+    type: necklace
+    quality: unique
+  - name: Undead Toothpicks
+    level: 16
+    stats:
+      attack: 18-23
+      attack_speed: 0.02s
+      def: 3-6
+      crit: 28%
+      crit_power: 22%
+    sell_price: 50
+    type: dualwield
+    quality: rare
+  - name: Rippers Daggers
+    level: 36
+    stats:
+      attack: 24-28
+      attack_speed: 0.01s
+      def: 5-9
+      crit: 27%
+      crit_power: 22%
+    sell_price: 150
+    type: dualwield
+    quality: rare
+  - name: Shish Kabosword
+    level: 16
+    stats:
+      attack: 72-82
+      attack_speed: 0.47s
+      def: 4-8
+      crit: 20%
+      crit_power: 21%
+    sell_price: 50
+    type: onehander
+    quality: rare
+  - name: Meat Cleaver
+    level: 26
+    stats:
+      attack: 82-92
+      attack_speed: 0.48s
+      def: 5-9
+      crit: 20%
+      crit_power: 21%
+    sell_price: 99
+    type: onehander
+    quality: rare
+  - name: Slicer
+    level: 26
+    stats:
+      attack: 165-175
+      attack_speed: 0.97s
+      def: 4-7
+      crit: 18%
+      crit_power: 17%
+    sell_price: 99
+    type: twohander
+    quality: rare
+  - name: Lost Pirate Anchor
+    level: 36
+    stats:
+      attack: 185-195
+      attack_speed: 0.98s
+      def: 5-9
+      crit: 18%
+      crit_power: 17%
+    sell_price: 150
+    type: twohander
+    quality: rare
+  - name: Bone Bow
+    level: 26
+    stats:
+      attack: 77-87
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2%
+    sell_price: 99
+    type: bow
+    quality: rare
+  - name: Ruin Staff
+    level: 16
+    stats:
+      attack: 72-77
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 17%
+      crit_power: 17%
+    sell_price: 50
+    type: rod
+    quality: rare
+  - name: Humiliator
+    level: 36
+    stats:
+      attack: 234-244
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 12%
+      crit_power: 19%
+    sell_price: 165
+    type: cannon
+    quality: rare
+  - name: Corrupt Ring
+    level: 6
+    stats:
+      attack: 3%
+      hp: 140
+    sell_price: 18
+    type: ring
+    quality: rare
+  - name: Half Moon Ring
+    level: 16
+    stats:
+      attack: 5%
+      hp: 220
+    sell_price: 65
+    type: ring
+    quality: rare
+  - name: Wicked Cave Ring
+    level: 26
+    stats:
+      attack: 7%
+      hp: 300
+    sell_price: 112
+    type: ring
+    quality: rare
+  - name: Necklace Of Lost Hope
+    level: 6
+    stats:
+      def: 3-4
+      hp: 175
+    sell_price: 18
+    type: necklace
+    quality: rare
+  - name: Chimera Necklace
+    level: 26
+    stats:
+      def: 7-12
+      hp: 375
+    sell_price: 112
+    type: necklace
+    quality: rare
+  - name: Codex Gigas
+    level: 40
+    stats:
+      attack: 12%
+    sell_price: 350
+    type: artifact
+    quality: rare
+  - name: Spider Web Rod
+    level: 29
+    stats:
+      attack: 91-99
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 19%
+      crit_power: 19%
+    sell_price: 250
+    type: rod
+    quality: very rare
+  - name: Shadow Circle
+    level: 29
+    stats:
+      attack: 8%
+      hp: 390
+    sell_price: 262
+    type: ring
+    quality: very rare
+  - name: Union Of The Crowns
+    level: 30
+    stats:
+      hp: 15%
+    sell_price: 300
+    type: artifact
+    quality: very rare
+  - name: Free Will
+    level: 40
+    stats:
+      crit: 2%
+    sell_price: 400
+    type: artifact
+    quality: very rare
+  - name: Ancient Cross
+    level: 10
+    stats:
+      hp: 5%
+    sell_price: 100
+    type: artifact
+    quality: very rare
+  - name: Perseus Necklace
+    level: 36
+    stats:
+      def: 9-16
+      hp: 475
+    sell_price: 164
+    type: necklace
+    quality: rare
+  - name: Return Of The Moon
+    level: 16
+    stats:
+      def: 5-8
+      hp: 275
+    sell_price: 65
+    type: necklace
+    quality: rare
+  - name: Red Lotus
+    level: 20
+    stats:
+      hp: 6%
+    sell_price: 150
+    type: artifact
+    quality: rare
+  - name: Rusty Picksword
+    level: 14
+    stats:
+      attack: 68-78
+      attack_speed: 0.46s
+      def: 3-9
+      crit: 19%
+      crit_power: 21%
+    sell_price: 25
+    type: onehander
+    quality: unique
+  - name: Sledgehammer
+    level: 4
+    stats:
+      attack: 118-128
+      attack_speed: 0.99s
+      def: 2-5
+      crit: 17%
+      crit_power: 16%
+    sell_price: 12
+    type: twohander
+    quality: unique
+  - name: Falchion
+    level: 36
+    stats:
+      attack: 92-102
+      attack_speed: 0.45s
+      def: 6-11
+      crit: 20%
+      crit_power: 21%
+    sell_price: 150
+    type: onehander
+    quality: rare
+  - name: Boar Sword
+    level: 44
+    stats:
+      attack: 98-108
+      attack_speed: 0.45a
+      def: 5-13
+      crit: 19%
+      crit_power: 21%
+    sell_price: 225
+    type: onehander
+    quality: unique
+  - name: Notorious Arming Bow
+    level: 44
+    stats:
+      attack: 93-103
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 225
+    type: bow
+    quality: unique
+  - name: Village Basilic
+    level: 44
+    stats:
+      attack: 245-255
+      attack_speed: 2.99s
+      def: 0-0
+      crit: 11%
+      crit_power: 19%
+    sell_price: 250
+    type: cannon
+    quality: unique
+  - name: Shadow Claws
+    level: 44
+    stats:
+      attack: 25-29
+      attack_speed: 0.01s
+      def: 4-10
+      crit: 26%
+      crit_power: 22%
+    sell_price: 225
+    type: dualwield
+    quality: unique
+  - name: Vintage Greatsword
+    level: 44
+    stats:
+      attack: 198-208
+      attack_speed: 0.98s
+      def: 4-10
+      crit: 17%
+      crit_power: 16%
+    sell_price: 225
+    type: twohander
+    quality: unique
+  - name: Troll Ring
+    level: 44
+    stats:
+      attack: 10%
+      hp: 420
+    sell_price: 240
+    type: ring
+    quality: unique
+  - name: Pleb Rippers
+    level: 46
+    stats:
+      def: 11-20
+      crit: 575
+    sell_price: 262
+    type: necklace
+    quality: rare
+  - name: Big Dick
+    level: 46
+    stats:
+      attack: 254-264
+      attack_speed: 3.05s
+      def: 0-0
+      crit: 12%
+      crit_power: 19%
+    sell_price: 265
+    type: cannon
+    quality: rare
+  - name: Rod Of Revelation
+    level: 44
+    stats:
+      attack: 98-103
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 16%
+      crit_power: 17%
+    sell_price: 225
+    type: rod
+    quality: unique
+  - name: Paw Talisman
+    level: 50
+    stats:
+      def: 11-24
+      crit: 650
+    sell_price: 400
+    type: necklace
+    quality: unique
+    found: Fishing Rank 2
+  - name: Inbred Slayer Axe
+    level: 46
+    stats:
+      attack: 102-112
+      attack_speed: 0.47s
+      def: 6-12
+      crit: 20%
+      crit_power: 21%
+    sell_price: 250
+    type: onehander
+    quality: rare
+  - name: Selfish Blade
+    level: 46
+    stats:
+      attack: 205-215
+      attack_speed: 0.99s
+      def: 5-10
+      crit: 18%
+      crit_power: 17%
+    sell_price: 250
+    type: twohander
+    quality: rare
+  - name: Horned Daggers
+    level: 46
+    stats:
+      attack: 27-31
+      attack_speed: 0.01s
+      def: 5-10
+      crit: 27%
+      crit_power: 22%
+    sell_price: 250
+    type: dualwield
+    quality: rare
+  - name: Bearbow
+    level: 46
+    stats:
+      attack: 97-107
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 22%
+      crit_power: 2%
+    sell_price: 250
+    type: bow
+    quality: rare
+  - name: Way of Cain
+    level: 50
+    stats:
+      attack: 9%
+    sell_price: 450
+    type: artifact
+    quality: rare
+  - name: Savage Ring
+    level: 46
+    stats:
+      attack: 11%
+      hp: 460
+    sell_price: 262
+    type: ring
+    quality: rare
+  - name: Pearl Ring
+    level: 50
+    stats:
+      attack: 11%
+      attack_speed: 550
+    sell_price: 400
+    type: ring
+    quality: unique
+  - name: Pillagers Talisman
+    level: 44
+    stats:
+      def: 10-19
+      crit: 525
+    sell_price: 240
+    type: necklace
+    quality: unique
+  - name: Night Summoner
+    level: 46
+    stats:
+      attack: 102-107
+      attack_speed: 1.59s
+      def: 0-0
+      crit: 17%
+      crit_power: 17%
+    sell_price: 250
+    type: rod
+    quality: rare
+  - name: Simple Slime Bow
+    level: 54
+    stats:
+      attack: 103-113
+      attack_speed: 0.15s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 335
+    type: bow
+    quality: unique
+    found: Berzerkgang, Slime Wave 10
+  - name: Filthy Blades
+    level: 54
+    stats:
+      attack: 28-32
+      attack_speed: 0.01s
+      def: 5-11
+      crit: 26%
+      crit_power: 22%
+    sell_price: 335
+    type: dualwield
+    quality: unique
+    found: Berzerkgang, Slime Wave 10
+  - name: Big Bang
+    level: 50
+    stats:
+      attack: 236-246
+      attack_speed: 0.95s
+      def: 7-12
+      crit: 22%
+      crit_power: 18%
+    sell_price: 500
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Pillager Bow
+    level: 56
+    stats:
+      attack: 112-117
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2%
+    sell_price: 400
+    type: bow
+    quality: rare
+    found: Sir De Haro, Slime Wave 20
+  - name: Green Rana Ring
+    level: 54
+    stats:
+      attack: 12%
+      hp: 500
+    sell_price: 345
+    type: ring
+    quality: unique
+    found: Sir De Haro, Slime Wave 20
+  - name: Kanabo
+    level: 54
+    stats:
+      attack: 218-228
+      attack_speed: 0.96s
+      def: 5-11
+      crit: 17%
+      crit_power: 16%
+    sell_price: 335
+    type: twohander
+    quality: unique
+    found: Sir De Haro, Slime Wave 20
+  - name: Kilij
+    level: 54
+    stats:
+      attack: 108-118
+      attack_speed: 0.46s
+      def: 6-13
+      crit: 19%
+      crit_power: 21%
+    sell_price: 335
+    type: onehander
+    quality: unique
+    found: Berzerkgang, Slime Wave 10
+  - name: Slime In A Bottle
+    level: 50
+    stats:
+      crit: 2%
+    sell_price: 450
+    type: artifact
+    quality: rare
+  - name: Slime Pendant
+    level: 54
+    stats:
+      def: 12-23
+      hp: 625
+    sell_price: 345
+    type: necklace
+    quality: unique
+    found: Berzerkgang, Slime Wave 10
