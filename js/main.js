@@ -14,7 +14,6 @@ function load_all_items() {
 	} catch (err) {
 		items = [{"buy_price": 1, "level": 1, "name" : "Test Item", "quality": "ordinary", "sell_price" : 0, "stats": {"test_stat_1": "1-1", "test_stat_2": "2-2", "test_stat_3": "3-3"}, "type": "rod"}];
 	}
-	console.log(items);
 }
 
 function sort_items() {
@@ -62,12 +61,33 @@ function filter_items() {
 	}).filter(function(filter_option) {
 		return filter_option;
 	});
+	var filter_level_options = Array.from(document.getElementsByClassName("filter-checkbox-levels"));
+	filter_level_options = filter_level_options.map(function(filter_level_option) {
+		if (filter_level_option.checked) return filter_level_option.name;
+	}).filter(function(filter_level_option) {
+		return filter_level_option;
+	}).map(function(filter_level_option) {
+		return filter_level_option.split("-").map(function(range_num) {
+			return parseInt(range_num, 10);
+		});
+	});
 	items = items.filter(function(item) {
 		return filter_options.indexOf(item.quality) > -1 &&
-						filter_options.indexOf(item.type) > -1;
+						filter_options.indexOf(item.type) > -1 &&
+						is_in_range(filter_level_options, item);
 	});
 	sort_items();
 	draw_table();
+}
+
+function is_in_range(ranges, item) {
+	var in_range = false;
+	ranges.forEach(function(range) {
+		if (parseInt(item.level,10) > range[0] && parseInt(item.level, 10) <= range[1]) {
+			in_range = true;
+		}
+	});
+	return in_range;
 }
 
 function draw_table() {
