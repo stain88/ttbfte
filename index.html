@@ -12,42 +12,172 @@
 			<h1>The Terrible Beast From the East</h1>
 		</div>
 
-		<h2>Equippable Items</h2>
-		<div id="sort_options">
-			<h4>Sort by: 
-				<label class="radio-inline">
-					<input type="radio" name="sortradio" onclick="sort_items();" value="name" checked>
-					Name
-				</label>
-				<label class="radio-inline">
-					<input type="radio" name="sortradio" onclick="sort_items();" value="quality">
-					Quality
-				</label>
-				<label class="radio-inline">
-					<input type="radio" name="sortradio" onclick="sort_items();" value="type">
-					Type
-				</label>
-				<label class="checkbox-inline">
-					<input type="checkbox" id="sortcheckbox" onclick="sort_items();">
-					Reverse
-				</label>
-			</h4>
-		</div>
-		<table id="table" class="table table-hover">
-			<thead>
-				<tr>
-					<th>Name</th>
-					<th>Level</th>
-					<th>Type</th>
-					<th>Quality</th>
-					<th>Stats</th>
-					<th>Buy Price</th>
-					<th>Sell Price</th>
-					<th>Found</th>
-				</tr>
-			</thead>
-			<tbody id="items-table"></tbody>
-		</table>
+		<section class="equips">
+			<h2 class="text-center">Equippable Items</h2>
+
+			<div class="row">
+				<div class="col-md-6">
+					<div class="sort-options text-center">
+						<h3>Sort By: </h3>
+						<div class="row">
+							<div class="col-md-4">
+								<label class="radio-inline">
+									<input type="radio" name="sortradio" onclick="sort_items();" value="name" checked>
+									Name
+								</label>
+							</div>
+							<div class="col-md-4">
+								<label class="radio-inline">
+									<input type="radio" name="sortradio" onclick="sort_items();" value="quality">
+									Quality
+								</label>
+							</div>
+							<div class="col-md-4">
+								<label class="radio-inline">
+									<input type="radio" name="sortradio" onclick="sort_items();" value="type">
+									Type
+								</label>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="checkbox">
+									<label>
+										<input type="checkbox" id="sortcheckbox" onclick="sort_items();">
+										Reverse
+									</label>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-6">
+					<div class="filter-options text-center">
+						<h3>Filter By: </h3>
+						<div class="row">
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="ordinary" class="filter-checkbox" checked onclick="filter_items();">Ordinary</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="unique" class="filter-checkbox" checked onclick="filter_items();">Unique</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="rare" class="filter-checkbox" checked onclick="filter_items();">Rare</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="very rare" class="filter-checkbox" checked onclick="filter_items();">Very Rare</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="elite" class="filter-checkbox" checked onclick="filter_items();">Elite</input>
+									</label>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="dualwield" class="filter-checkbox" checked onclick="filter_items();">Dualwield</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="onehander" class="filter-checkbox" checked onclick="filter_items();">Onehander</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="twohander" class="filter-checkbox" checked onclick="filter_items();">Twohander</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="bow" class="filter-checkbox" checked onclick="filter_items();">Bow</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="rod" class="filter-checkbox" checked onclick="filter_items();">Rod</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="cannon" class="filter-checkbox" checked onclick="filter_items();">Cannon</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="ring" class="filter-checkbox" checked onclick="filter_items();">Ring</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="necklace" class="filter-checkbox" checked onclick="filter_items();">Necklace</input>
+									</label>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="checkbox-inline">
+									<label>
+										<input type="checkbox" name="artifact" class="filter-checkbox" checked onclick="filter_items();">Artifact</input>
+									</label>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<table id="table" class="table table-hover">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Level</th>
+						<th>Type</th>
+						<th>Quality</th>
+						<th>Stats</th>
+						<th>Buy Price</th>
+						<th>Sell Price</th>
+						<th>Found</th>
+					</tr>
+				</thead>
+				<tbody id="items-table"></tbody>
+			</table>
+		</section>
 	</div>
 
 	<script src="js/main.js"></script>

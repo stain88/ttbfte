@@ -1,7 +1,7 @@
 var items;
 
 document.addEventListener('DOMContentLoaded', function() {
-	load_all_items();
+	filter_items();
 
 	sort_items("name");
 
@@ -46,6 +46,22 @@ function sort_items() {
 		}
 	});
 	if (document.getElementById("sortcheckbox").checked) items.reverse();
+	draw_table();
+}
+
+function filter_items() {
+	load_all_items();
+	var filter_options = Array.from(document.getElementsByClassName("filter-checkbox"));
+	filter_options = filter_options.map(function(filter_option) {
+		if (filter_option.checked) return filter_option.name;
+	}).filter(function(filter_option) {
+		return filter_option;
+	});
+	items = items.filter(function(item) {
+		return filter_options.indexOf(item.quality) > -1 &&
+						filter_options.indexOf(item.type) > -1;
+	});
+	sort_items();
 	draw_table();
 }
 
