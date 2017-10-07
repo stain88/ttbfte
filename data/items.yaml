@@ -904,6 +904,7 @@ items:
     sell_price: 25
     type: dualwield
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Skeletons Sidearms
     level: 24
     stats:
@@ -1174,6 +1175,7 @@ items:
     sell_price: 50
     type: onehander
     quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
   - name: Meat Cleaver
     level: 26
     stats:
@@ -1329,6 +1331,7 @@ items:
     sell_price: 100
     type: artifact
     quality: very rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Perseus Necklace
     level: 36
     stats:
@@ -1857,7 +1860,7 @@ items:
       attack_speed: 2.95s
       def: 0-0
       crit: 15%
-      crit_power: 2
+      crit_power: 2.0
     sell_price: 225
     type: cannon
     quality: elite
@@ -1880,3 +1883,36 @@ items:
     type: ring
     quality: elite
     found: Crafted
+  - name: Long Falchion
+    level: 14
+    stats:
+      attack: 138-148
+      attack_speed: 0.97s
+      def: 2-6
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 25
+    type: twohander
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Crude Ruin Bow
+    level: 16
+    stats:
+      attack: 67-77
+      attack_speed: 0.23s
+      def: 0-0
+      crit: 23%
+      crit_power: 2.0
+    sell_price: 50
+    type: bow
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Aquila Necklace
+    level: 9
+    stats:
+      def: 4-5
+      hp: 290
+    sell_price: 105
+    type: necklace
+    quality: very rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
