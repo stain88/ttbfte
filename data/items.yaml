@@ -994,6 +994,7 @@ items:
     sell_price: 25
     type: bow
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Spider Bow
     level: 24
     stats:
@@ -1062,6 +1063,7 @@ items:
     sell_price: 30
     type: cannon
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Wall Destroyer
     level: 24
     stats:
@@ -1092,6 +1094,7 @@ items:
     sell_price: 50
     type: ring
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Grotto Ring
     level: 24
     stats:
@@ -1126,6 +1129,7 @@ items:
     sell_price: 50
     type: necklace
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Greed Necklace
     level: 24
     stats:
@@ -1153,6 +1157,7 @@ items:
     sell_price: 50
     type: dualwield
     quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
   - name: Rippers Daggers
     level: 36
     stats:
@@ -1348,6 +1353,7 @@ items:
     sell_price: 65
     type: necklace
     quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
   - name: Red Lotus
     level: 20
     stats:
@@ -1355,6 +1361,7 @@ items:
     sell_price: 150
     type: artifact
     quality: rare
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Rusty Picksword
     level: 14
     stats:
@@ -1366,6 +1373,7 @@ items:
     sell_price: 25
     type: onehander
     quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
   - name: Sledgehammer
     level: 4
     stats:
@@ -1624,7 +1632,7 @@ items:
     sell_price: 400
     type: bow
     quality: rare
-    found: Sir De Haro, Slime wave 20
+    found: Sir De Haro, Slime wave 20; Wiz, Slime wave 30
   - name: Green Rana Ring
     level: 54
     stats:
@@ -1657,7 +1665,7 @@ items:
     sell_price: 335
     type: onehander
     quality: unique
-    found: Berzerkgang, Slime wave 10
+    found: Berzerkgang, Slime wave 10; Sir De Haro, Slime wave 20
   - name: Slime In A Bottle
     level: 50
     stats:
@@ -1916,3 +1924,101 @@ items:
     type: necklace
     quality: very rare
     found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Lost Fragile Rod
+    level: 14
+    stats:
+      attack: 68-73
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 25
+    type: rod
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Moonlight Ruiner
+    level: 16
+    stats:
+      attack: 194-204
+      attack_speed: 2.99s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 60
+    type: cannon
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Executioner Blade
+    level: 16
+    stats:
+      attack: 145-155
+      attack_speed: 0.95s
+      def: 3-5
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 50
+    type: twohander
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Elemental Warden Rod
+    level: 56
+    stats:
+      attack: 117-1222
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 400
+    type: rod
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Ygrenes Wish
+    level: 20
+    stats:
+      attack: 10%
+    sell_price: 200
+    type: artifact
+    quality: very rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Hesperados Necklace
+    level: 56
+    stats:
+      def: 13-24
+      hp: 675
+    sell_price: 418
+    type: necklace
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Purple Drank
+    level: 59
+    stats:
+      attack: 322-335
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 11%
+      crit_power: 2.0
+    sell_price: 790
+    type: cannon
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Witch Sword
+    level: 59
+    stats:
+      attack: 136-149
+      attack_speed: 0.47s
+      def: 6-13
+      crit: 19%
+      crit_power: 2.3
+    sell_price: 750
+    type: onehander
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Infinity Necklace
+    level: 59
+    stats:
+      def: 14-25
+      hp: 764
+    sell_price: 518
+    type: necklace
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
