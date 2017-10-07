@@ -892,6 +892,7 @@ items:
     sell_price: 12
     type: dualwield
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Carnwennans
     level: 14
     stats:
@@ -936,6 +937,7 @@ items:
     sell_price: 12
     type: onehander
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Flanged Bone Mace
     level: 24
     stats:
@@ -1024,6 +1026,7 @@ items:
     sell_price: 12
     type: rod
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Secret River Wand
     level: 34
     stats:
@@ -1112,6 +1115,7 @@ items:
     sell_price: 15
     type: necklace
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Path Of The Moon
     level: 14
     stats:
@@ -1243,6 +1247,7 @@ items:
     sell_price: 18
     type: ring
     quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Half Moon Ring
     level: 16
     stats:
@@ -1267,6 +1272,7 @@ items:
     sell_price: 18
     type: necklace
     quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Chimera Necklace
     level: 26
     stats:
@@ -1367,6 +1373,7 @@ items:
     sell_price: 12
     type: twohander
     quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
   - name: Falchion
     level: 36
     stats:
@@ -1663,3 +1670,114 @@ items:
     type: necklace
     quality: unique
     found: Berzerkgang, Slime Wave 10
+  - name: Strong Bow
+    level: 4
+    stats:
+      attack: 53-63
+      attack_speed: 0.23s
+      def: 0-0
+      crit: 21%
+      crit_power: 2%
+    sell_price: 12
+    type: bow
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Bone Ring
+    level: 4
+    stats:
+      attack: 2%
+      hp: 100
+    sell_price: 15
+    type: ring
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Skull Daggers
+    level: 10
+    stats:
+      attack: 20-24
+      attack_speed: 0.01s
+      def: 3-7
+      crit: 30%
+      crit_power: 23%
+    sell_price: 100
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Soul Sword
+    level: 10
+    stats:
+      attack: 73-83
+      attack_speed: 0.45s
+      def: 4-9
+      crit: 23%
+      crit_power: 22%
+    sell_price: 100
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Basement Dweller
+    level: 10
+    stats:
+      attack: 146-156
+      attack_speed: 0.95s
+      def: 3-7
+      crit: 21%
+      crit_power: 18%
+    sell_price: 100
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Crescent Bow
+    level: 10
+    stats:
+      attack: 68-78
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 21%
+    sell_price: 100
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Skull Wand
+    level: 10
+    stats:
+      attack: 73-78
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 18%
+    sell_price: 100
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Skeleton Purifier
+    level: 10
+    stats:
+      attack: 196-206
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2%
+    sell_price: 125
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Skull Ring
+    level: 10
+    stats:
+      attack: 5%
+      hp: 250
+    sell_price: 125
+    type: ring
+    quality: elite
+    found: Crafted
+  - name: Skull Pendant
+    level: 10
+    stats:
+      def: 5-10
+      crit: 310
+    sell_price: 125
+    type: necklace
+    quality: elite
+    found: Crafted
