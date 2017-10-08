@@ -2262,3 +2262,15 @@ items:
     type: rod
     quality: very rare
     found: Martin Looter King, Purge wave 30
+  - name: Simple Fairy Cane
+    level: 26
+    stats:
+      attack: 82-87
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 99
+    type: rod
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
