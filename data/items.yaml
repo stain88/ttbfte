@@ -12,6 +12,7 @@ items:
     sell_price: 0
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Daggers
     level: 5
     stats:
@@ -24,6 +25,7 @@ items:
     sell_price: 12
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Kitchen Knives
     level: 10
     stats:
@@ -36,6 +38,7 @@ items:
     sell_price: 25
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Stilettos
     level: 15
     stats:
@@ -48,6 +51,7 @@ items:
     sell_price: 37
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Hunters Knives
     level: 20
     stats:
@@ -60,6 +64,7 @@ items:
     sell_price: 50
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Long Daggers
     level: 25
     stats:
@@ -72,6 +77,7 @@ items:
     sell_price: 75
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rondel Daggers
     level: 30
     stats:
@@ -84,6 +90,7 @@ items:
     sell_price: 100
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Baselards
     level: 35
     stats:
@@ -96,6 +103,7 @@ items:
     sell_price: 125
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Pugiones
     level: 40
     stats:
@@ -108,6 +116,7 @@ items:
     sell_price: 150
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Ear Daggers
     level: 45
     stats:
@@ -120,6 +129,7 @@ items:
     sell_price: 250
     type: dualwield
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Wooden Sword
     level: 1
     stats:
@@ -132,6 +142,7 @@ items:
     sell_price: 0
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Dark Torch
     level: 5
     stats:
@@ -144,6 +155,7 @@ items:
     sell_price: 12
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Sharp Harpoon
     level: 10
     stats:
@@ -156,6 +168,7 @@ items:
     sell_price: 25
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Spiked Club
     level: 15
     stats:
@@ -168,6 +181,7 @@ items:
     sell_price: 37
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Pick
     level: 20
     stats:
@@ -180,6 +194,7 @@ items:
     sell_price: 50
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Machete
     level: 25
     stats:
@@ -192,6 +207,7 @@ items:
     sell_price: 75
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shillelagh
     level: 30
     stats:
@@ -204,6 +220,7 @@ items:
     sell_price: 100
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Short Sword
     level: 35
     stats:
@@ -216,6 +233,7 @@ items:
     sell_price: 125
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Axe
     level: 40
     stats:
@@ -228,6 +246,7 @@ items:
     sell_price: 150
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Straight Sword
     level: 45
     stats:
@@ -240,6 +259,7 @@ items:
     sell_price: 250
     type: onehander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Two Handed Practice Sword
     level: 1
     stats:
@@ -252,6 +272,7 @@ items:
     sell_price: 0
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Maul
     level: 5
     stats:
@@ -264,6 +285,7 @@ items:
     sell_price: 12
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Greatsword
     level: 10
     stats:
@@ -276,6 +298,7 @@ items:
     sell_price: 25
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Heavy Glaive
     level: 15
     stats:
@@ -288,6 +311,7 @@ items:
     sell_price: 37
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Two Handed Sword
     level: 20
     stats:
@@ -300,6 +324,7 @@ items:
     sell_price: 50
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Two Handed Axe
     level: 25
     stats:
@@ -312,6 +337,7 @@ items:
     sell_price: 75
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Bastard Sword
     level: 30
     stats:
@@ -324,6 +350,7 @@ items:
     sell_price: 100
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Two Handed Estoc
     level: 35
     stats:
@@ -336,6 +363,7 @@ items:
     sell_price: 125
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Espada Bastarda
     level: 40
     stats:
@@ -348,6 +376,7 @@ items:
     sell_price: 150
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Hand And A Half Sword
     level: 45
     stats:
@@ -360,6 +389,7 @@ items:
     sell_price: 250
     type: twohander
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Simple Bow
     level: 1
     stats:
@@ -372,6 +402,7 @@ items:
     sell_price: 0
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Short Bow
     level: 5
     stats:
@@ -384,6 +415,7 @@ items:
     sell_price: 12
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Citizens Self Bow
     level: 10
     stats:
@@ -396,6 +428,7 @@ items:
     sell_price: 25
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Nomad Bow
     level: 15
     stats:
@@ -408,6 +441,7 @@ items:
     sell_price: 37
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Adventurer Short Bow
     level: 20
     stats:
@@ -420,6 +454,7 @@ items:
     sell_price: 50
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Ambassadors Flatbow
     level: 25
     stats:
@@ -432,6 +467,7 @@ items:
     sell_price: 75
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Hunting Bow
     level: 30
     stats:
@@ -444,6 +480,7 @@ items:
     sell_price: 100
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Horn Bow
     level: 35
     stats:
@@ -456,6 +493,7 @@ items:
     sell_price: 125
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Soldiers Recurve Bow
     level: 40
     stats:
@@ -468,6 +506,7 @@ items:
     sell_price: 150
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Arming Bow
     level: 45
     stats:
@@ -480,6 +519,7 @@ items:
     sell_price: 250
     type: bow
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Wooden Rod
     level: 1
     stats:
@@ -492,6 +532,7 @@ items:
     sell_price: 0
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shepherd Rod
     level: 5
     stats:
@@ -504,6 +545,7 @@ items:
     sell_price: 12
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Miner Cane
     level: 10
     stats:
@@ -516,6 +558,7 @@ items:
     sell_price: 25
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Scepter
     level: 15
     stats:
@@ -528,6 +571,7 @@ items:
     sell_price: 37
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Cursing Rod
     level: 20
     stats:
@@ -540,6 +584,7 @@ items:
     sell_price: 50
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Village Blesser
     level: 25
     stats:
@@ -552,6 +597,7 @@ items:
     sell_price: 75
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Wind Controller
     level: 30
     stats:
@@ -564,6 +610,7 @@ items:
     sell_price: 100
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Green Star Rod
     level: 35
     stats:
@@ -576,6 +623,7 @@ items:
     sell_price: 125
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Subterranean Crook
     level: 40
     stats:
@@ -588,6 +636,7 @@ items:
     sell_price: 150
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shamans Stick
     level: 45
     stats:
@@ -600,6 +649,7 @@ items:
     sell_price: 250
     type: rod
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Hand Cannon
     level: 10
     stats:
@@ -612,6 +662,7 @@ items:
     sell_price: 30
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shoulder Cannon
     level: 15
     stats:
@@ -624,6 +675,7 @@ items:
     sell_price: 50
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rusty Saker
     level: 20
     stats:
@@ -636,6 +688,7 @@ items:
     sell_price: 62
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Town Cannon
     level: 25
     stats:
@@ -648,6 +701,7 @@ items:
     sell_price: 87
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Iron Falconet
     level: 30
     stats:
@@ -660,6 +714,7 @@ items:
     sell_price: 112
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Demi Cannon
     level: 35
     stats:
@@ -672,6 +727,7 @@ items:
     sell_price: 137
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Ruined Carronade
     level: 40
     stats:
@@ -684,6 +740,7 @@ items:
     sell_price: 162
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Relief Culverin
     level: 45
     stats:
@@ -696,6 +753,7 @@ items:
     sell_price: 262
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shadow Blaster
     level: 50
     stats:
@@ -708,6 +766,7 @@ items:
     sell_price: 362
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Minion
     level: 55
     stats:
@@ -720,6 +779,7 @@ items:
     sell_price: 499
     type: cannon
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Rotten Wooden Ring
     level: 1
     stats:
@@ -729,6 +789,7 @@ items:
     sell_price: 12
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Simple Ring
     level: 5
     stats:
@@ -738,6 +799,7 @@ items:
     sell_price: 25
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Metal Ring
     level: 10
     stats:
@@ -747,6 +809,7 @@ items:
     sell_price: 50
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: BOs Ring
     level: 15
     stats:
@@ -756,6 +819,7 @@ items:
     sell_price: 125
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Thumb Ring
     level: 20
     stats:
@@ -765,6 +829,7 @@ items:
     sell_price: 250
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Warriors Seal
     level: 25
     stats:
@@ -774,6 +839,7 @@ items:
     sell_price: 499
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Silver Ring
     level: 30
     stats:
@@ -783,6 +849,7 @@ items:
     sell_price: 1125
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Ambassadors Ring
     level: 35
     stats:
@@ -792,6 +859,7 @@ items:
     sell_price: 2500
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Engraved Silver Ring
     level: 40
     stats:
@@ -801,6 +869,7 @@ items:
     sell_price: 6250
     type: ring
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Simple Wooden Necklace
     level: 1
     stats:
@@ -810,6 +879,7 @@ items:
     sell_price: 12
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Commoner Necklace
     level: 5
     stats:
@@ -819,6 +889,7 @@ items:
     sell_price: 25
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Soldiers Amulet
     level: 10
     stats:
@@ -828,6 +899,7 @@ items:
     sell_price: 50
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Hunters Necklace
     level: 15
     stats:
@@ -837,6 +909,7 @@ items:
     sell_price: 125
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Travelers Necklace
     level: 20
     stats:
@@ -846,6 +919,7 @@ items:
     sell_price: 250
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Warriors Pendant
     level: 25
     stats:
@@ -855,6 +929,7 @@ items:
     sell_price: 499
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Shell Necklace
     level: 30
     stats:
@@ -863,6 +938,7 @@ items:
     sell_price: 1125
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Fang Necklace
     level: 35
     stats:
@@ -872,6 +948,7 @@ items:
     sell_price: 2500
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Guardian Silver Pendant
     level: 40
     stats:
@@ -881,6 +958,7 @@ items:
     sell_price: 6250
     type: necklace
     quality: ordinary
+    found: Ebenezer's Shop
   - name: Bone Misericordes
     level: 4
     stats:
@@ -1159,6 +1237,7 @@ items:
     sell_price: 135
     type: necklace
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Undead Toothpicks
     level: 16
     stats:
@@ -1371,6 +1450,7 @@ items:
     sell_price: 164
     type: necklace
     quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
   - name: Return Of The Moon
     level: 16
     stats:
