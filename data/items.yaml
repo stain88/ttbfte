@@ -2274,3 +2274,15 @@ items:
     type: rod
     quality: rare
     found: Lady Famine, Cave of Humiliation wave 20
+  - name: Curved Daggers
+    level: 26
+    stats:
+      attack: 22-26
+      attack_speed: 0.01s
+      def: 4-7
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 99
+    type: dualwield
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
