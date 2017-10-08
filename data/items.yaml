@@ -916,6 +916,7 @@ items:
     sell_price: 75
     type: dualwield
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Strange Scalpels
     level: 34
     stats:
@@ -927,6 +928,7 @@ items:
     sell_price: 125
     type: dualwield
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Wooden Mallet
     level: 4
     stats:
@@ -950,6 +952,7 @@ items:
     sell_price: 75
     type: onehander
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Octopus Hook
     level: 34
     stats:
@@ -961,6 +964,7 @@ items:
     sell_price: 125
     type: onehander
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Long Pickaxe
     level: 24
     stats:
@@ -972,6 +976,7 @@ items:
     sell_price: 75
     type: twohander
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Sharp Fish Dadao
     level: 34
     stats:
@@ -983,6 +988,7 @@ items:
     sell_price: 125
     type: twohander
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Old Ruin Horn Bow
     level: 14
     stats:
@@ -1006,6 +1012,7 @@ items:
     sell_price: 75
     type: bow
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Sailors Recurve Bow
     level: 34
     stats:
@@ -1017,6 +1024,7 @@ items:
     sell_price: 125
     type: bow
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Traveler's Stick
     level: 4
     stats:
@@ -1040,6 +1048,7 @@ items:
     sell_price: 125
     type: rod
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Field Gun
     level: 4
     stats:
@@ -1075,6 +1084,7 @@ items:
     sell_price: 95
     type: cannon
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Naval Cannon
     level: 34
     stats:
@@ -1086,6 +1096,7 @@ items:
     sell_price: 150
     type: cannon
     quality: unique
+    found: Bone Blesser, Misadventures wave 10
   - name: Old Moon
     level: 14
     stats:
@@ -1103,6 +1114,7 @@ items:
     sell_price: 80
     type: ring
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Fighters Ring
     level: 30
     stats:
@@ -1138,6 +1150,7 @@ items:
     sell_price: 80
     type: necklace
     quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
   - name: Wicingas Necklace
     level: 34
     stats:
@@ -1169,6 +1182,7 @@ items:
     sell_price: 150
     type: dualwield
     quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
   - name: Shish Kabosword
     level: 16
     stats:
@@ -1192,6 +1206,7 @@ items:
     sell_price: 99
     type: onehander
     quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
   - name: Slicer
     level: 26
     stats:
@@ -1203,6 +1218,7 @@ items:
     sell_price: 99
     type: twohander
     quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
   - name: Lost Pirate Anchor
     level: 36
     stats:
@@ -1214,6 +1230,7 @@ items:
     sell_price: 150
     type: twohander
     quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
   - name: Bone Bow
     level: 26
     stats:
@@ -1225,6 +1242,7 @@ items:
     sell_price: 99
     type: bow
     quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
   - name: Ruin Staff
     level: 16
     stats:
@@ -1236,6 +1254,7 @@ items:
     sell_price: 50
     type: rod
     quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
   - name: Humiliator
     level: 36
     stats:
@@ -1247,6 +1266,7 @@ items:
     sell_price: 165
     type: cannon
     quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
   - name: Corrupt Ring
     level: 6
     stats:
@@ -1264,6 +1284,7 @@ items:
     sell_price: 65
     type: ring
     quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
   - name: Wicked Cave Ring
     level: 26
     stats:
@@ -1272,6 +1293,7 @@ items:
     sell_price: 112
     type: ring
     quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
   - name: Necklace Of Lost Hope
     level: 6
     stats:
@@ -1289,6 +1311,7 @@ items:
     sell_price: 112
     type: necklace
     quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
   - name: Codex Gigas
     level: 40
     stats:
@@ -1307,6 +1330,7 @@ items:
     sell_price: 250
     type: rod
     quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
   - name: Shadow Circle
     level: 29
     stats:
@@ -1315,6 +1339,7 @@ items:
     sell_price: 262
     type: ring
     quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
   - name: Union Of The Crowns
     level: 30
     stats:
@@ -1322,6 +1347,7 @@ items:
     sell_price: 300
     type: artifact
     quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
   - name: Free Will
     level: 40
     stats:
@@ -1397,6 +1423,7 @@ items:
     sell_price: 150
     type: onehander
     quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
   - name: Boar Sword
     level: 44
     stats:
@@ -1408,6 +1435,7 @@ items:
     sell_price: 225
     type: onehander
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Notorious Arming Bow
     level: 44
     stats:
@@ -1419,6 +1447,7 @@ items:
     sell_price: 225
     type: bow
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Village Basilic
     level: 44
     stats:
@@ -1430,6 +1459,7 @@ items:
     sell_price: 250
     type: cannon
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Shadow Claws
     level: 44
     stats:
@@ -1441,6 +1471,7 @@ items:
     sell_price: 225
     type: dualwield
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Vintage Greatsword
     level: 44
     stats:
@@ -1452,6 +1483,7 @@ items:
     sell_price: 225
     type: twohander
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Troll Ring
     level: 44
     stats:
@@ -1460,6 +1492,7 @@ items:
     sell_price: 240
     type: ring
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Pleb Rippers
     level: 46
     stats:
@@ -1468,6 +1501,7 @@ items:
     sell_price: 262
     type: necklace
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Big Dick
     level: 46
     stats:
@@ -1479,6 +1513,7 @@ items:
     sell_price: 265
     type: cannon
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Rod Of Revelation
     level: 44
     stats:
@@ -1490,6 +1525,7 @@ items:
     sell_price: 225
     type: rod
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Paw Talisman
     level: 50
     stats:
@@ -1510,6 +1546,7 @@ items:
     sell_price: 250
     type: onehander
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Selfish Blade
     level: 46
     stats:
@@ -1521,6 +1558,7 @@ items:
     sell_price: 250
     type: twohander
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Horned Daggers
     level: 46
     stats:
@@ -1532,6 +1570,7 @@ items:
     sell_price: 250
     type: dualwield
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Bearbow
     level: 46
     stats:
@@ -1543,6 +1582,7 @@ items:
     sell_price: 250
     type: bow
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Way of Cain
     level: 50
     stats:
@@ -1558,6 +1598,7 @@ items:
     sell_price: 262
     type: ring
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Pearl Ring
     level: 50
     stats:
@@ -1566,6 +1607,7 @@ items:
     sell_price: 400
     type: ring
     quality: unique
+    found: Fishing Rank 2
   - name: Pillagers Talisman
     level: 44
     stats:
@@ -1574,6 +1616,7 @@ items:
     sell_price: 240
     type: necklace
     quality: unique
+    found: Lezard Barnabas, Purge wave 10
   - name: Night Summoner
     level: 46
     stats:
@@ -1585,6 +1628,7 @@ items:
     sell_price: 250
     type: rod
     quality: rare
+    found: Sonja The Pillager, Purge wave 20
   - name: Simple Slime Bow
     level: 54
     stats:
@@ -2022,3 +2066,119 @@ items:
     type: necklace
     quality: very rare
     found: Slime King Pallache, Slime wave 50
+  - name: Happy Slime
+    level: 54
+    stats:
+      attack: 108-113
+      attack_speed: 1.54s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 335
+    type: rod
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Slime Smasher
+    level: 54
+    stats:
+      attack: 265-275
+      attack_speed: 2.94s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 350
+    type: cannon
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Bang Bang
+    level: 29
+    stats:
+      attack: 232-245
+      attack_speed: 3.05s
+      def: 0-0
+      crit: 12%
+      crit_power: 2.1
+    sell_price: 265
+    type: cannon
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Unlucky Drago Stick
+    level: 24
+    stats:
+      attack: 78-83
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 75
+    type: rod
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Hope Blaster
+    level: 26
+    stats:
+      attack: 214-224
+      attack_speed: 2.97s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 110
+    type: cannon
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Bow Of Humiliation
+    level: 29
+    stats:
+      attack: 86-99
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.1
+    sell_price: 250
+    type: bow
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Skeleton Battle Bow
+    level: 36
+    stats:
+      attack: 87-97
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 150
+    type: bow
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Dead Sea Scrolls
+    level: 30
+    stats:
+      attack: 6%
+    sell_price: 250
+    type: artifact
+    quality: rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Notorious Light Feather
+    level: 49
+    stats:
+      attack: 111-119
+      attack_speed: 0.26s
+      def: 0-0
+      crit: 24%
+      crit_power: 2.1
+    sell_price: 500
+    type: bow
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Staff Of Temptation
+    level: 49
+    stats:
+      attack: 116-135
+      attack_speed: 1.58s
+      def: 0-0
+      crit: 22%
+      crit_power: 1.8
+    sell_price: 500
+    type: rod
+    quality: very rare
+    found: Martin Looter King, Purge wave 30

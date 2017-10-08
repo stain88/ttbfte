@@ -155,4 +155,10 @@ function draw_table() {
 
 		item_table_body.appendChild(table_row);
 	});
+	update_item_count();
+}
+
+function update_item_count() {
+	var count_span = document.getElementsByClassName("item-count")[0];
+	count_span.innerHTML = items.length;
 }
