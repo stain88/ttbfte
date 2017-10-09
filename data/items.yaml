@@ -1670,6 +1670,7 @@ items:
     sell_price: 450
     type: artifact
     quality: rare
+    found: Fishing Rank 2
   - name: Savage Ring
     level: 46
     stats:
@@ -2286,3 +2287,120 @@ items:
     type: dualwield
     quality: rare
     found: Lady Famine, Cave of Humiliation wave 20
+  - name: Hollow Scepter
+    level: 36
+    stats:
+      attack: 92-97
+      attack_speed: 1.58s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 150
+    type: rod
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Long Swordfish
+    level: 39
+    stats:
+      attack: 203-215
+      attack_speed: 0.99s
+      def: 6-9
+      crit: 20%
+      crit_power: 1.7
+    sell_price: 300
+    type: twohander
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Cutlass
+    level: 39
+    stats:
+      attack: 101-114
+      attack_speed: 0.44s
+      def: 5-8
+      crit: 30%
+      crit_power: 1.8
+    sell_price: 5-8
+    type: onehander
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Ring Of Tristis Flumen
+    level: 34
+    stats:
+      attack: 8%
+      hp: 340
+    sell_price: 135
+    type: ring
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Lepus Necklace
+    level: 29
+    stats:
+      def: 8-13
+      hp: 490
+    sell_price: 262
+    type: necklace
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Beach Necklace
+    level: 30
+    stats:
+      def: 7-16
+      hp: 450
+    sell_price: 150
+    type: necklace
+    quality: unique
+    found: Fishing Rank 1
+  - name: Magma Stone
+    level: 30
+    stats:
+      attack: 9%
+    sell_price: 250
+    type: artifact
+    quality: rare
+    found: Fishing Rank 1
+  - name: Shirshons
+    level: 50
+    stats:
+      hp: 15%
+    sell_price: 450
+    type: artifact
+    quality: rare
+    found: Fishing Rank 2
+  - name: Book Of The Living Dead
+    level: 40
+    stats:
+      attack: 10%
+    sell_price: 400
+    type: artifact
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Sprial Serpent Ring
+    level: 56
+    stats:
+      attack: 13%
+      hp: 418
+    sell_price: 262
+    type: ring
+    quality: rare
+    found: Mad Spud, Slime wave 40
+  - name: Slime Falchion
+    level: 56
+    stats:
+      attack: 117-127
+      attack_speed: 0.44s
+      def: 7-13
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 400
+    type: onehander
+    quality: rare
+    found: Mad Spud, Slime wave 40
+  - name: Ring of Twisted Trasgo
+    level: 59
+    stats:
+      attack: 14%
+      hp: 630
+    sell_price: 764
+    type: ring
+    quality: very rare
+    found: King Slime Pallache, Slime wave 50
