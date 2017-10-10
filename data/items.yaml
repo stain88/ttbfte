@@ -934,6 +934,7 @@ items:
     level: 30
     stats:
       def: 6-12
+      hp: 350
     buy_price: 2250
     sell_price: 1125
     type: necklace
@@ -1684,7 +1685,7 @@ items:
     level: 50
     stats:
       attack: 11%
-      attack_speed: 550
+      hp: 550
     sell_price: 400
     type: ring
     quality: unique
@@ -2012,7 +2013,7 @@ items:
     level: 20
     stats:
       attack: 7%
-      attack_speed: 330
+      hp: 330
     sell_price: 225
     type: ring
     quality: elite
@@ -2320,7 +2321,7 @@ items:
       def: 5-8
       crit: 30%
       crit_power: 1.8
-    sell_price: 5-8
+    sell_price: 300
     type: onehander
     quality: very rare
     found: Darkest Stranger, Misadventures wave 30
