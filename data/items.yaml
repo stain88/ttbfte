@@ -2430,3 +2430,24 @@ items:
     type: twohander
     quality: rare
     found: Wiz, Slime wave 30
+  - name: Half Moon Scimitar
+    level: 49
+    stats:
+      attack: 233-245
+      attack_speed: 0.96s
+      def: 4-11
+      crit: 18%
+      crit_power: 1.8
+    sell_price: 500
+    type: twohander
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Outlaw Ring
+    level: 49
+    stats:
+      attack: 12%
+      hp: 550
+    sell_price: 518
+    type: ring
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
