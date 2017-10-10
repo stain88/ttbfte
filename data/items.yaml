@@ -1798,6 +1798,7 @@ items:
     sell_price: 450
     type: artifact
     quality: rare
+    found: Mad Spud, Slime wave 40
   - name: Slime Pendant
     level: 54
     stats:
@@ -2414,5 +2415,17 @@ items:
       crit_power: 1.9
     sell_price: 415
     type: cannon
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Bandit Greatsword
+    level: 56
+    stats:
+      attack: 235-245
+      attack_speed: 0.94s
+      def: 6-11
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 400
+    type: twohander
     quality: rare
     found: Wiz, Slime wave 30
