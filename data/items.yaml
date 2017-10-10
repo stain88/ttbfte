@@ -2404,3 +2404,15 @@ items:
     type: ring
     quality: very rare
     found: King Slime Pallache, Slime wave 50
+  - name: Lazy Mette
+    level: 56
+    stats:
+      attack: 284-294
+      attack_speed: 2.96s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 415
+    type: cannon
+    quality: rare
+    found: Wiz, Slime wave 30
