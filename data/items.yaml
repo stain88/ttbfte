@@ -2376,7 +2376,7 @@ items:
     type: artifact
     quality: very rare
     found: Darkest Stranger, Misadventures wave 30
-  - name: Sprial Serpent Ring
+  - name: Spiral Serpent Ring
     level: 56
     stats:
       attack: 13%
@@ -2429,7 +2429,7 @@ items:
     sell_price: 400
     type: twohander
     quality: rare
-    found: Wiz, Slime wave 30
+    found: Wiz, Slime wave 30; Mad Spud, Slime wave 40
   - name: Half Moon Scimitar
     level: 49
     stats:
