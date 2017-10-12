@@ -1758,7 +1758,7 @@ items:
     sell_price: 400
     type: bow
     quality: rare
-    found: Sir De Haro, Slime wave 20; Wiz, Slime wave 30
+    found: Wiz, Slime wave 30
   - name: Green Rana Ring
     level: 54
     stats:
@@ -2405,7 +2405,7 @@ items:
     sell_price: 764
     type: ring
     quality: very rare
-    found: King Slime Pallache, Slime wave 50
+    found: Slime King Pallache, Slime wave 50
   - name: Lazy Mette
     level: 56
     stats:
