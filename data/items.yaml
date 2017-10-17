@@ -2451,3 +2451,36 @@ items:
     type: ring
     quality: very rare
     found: Martin Looter King, Purge wave 30
+  - name: Billaos
+    level: 66
+    stats:
+      attack: 35-39
+      attack_speed: 0.01s
+      def: 7-13
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 450
+    type: dualwield
+    quality: rare
+    found: Villager Pillager, First Siege wave 10
+  - name: Siege Bow
+    level: 66
+    stats:
+      attack: 132-142
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 23%
+      crit_power: 2.0
+    sell_price: 450
+    type: bow
+    quality: rare
+    found: Villager Pillager, First Siege wave 10
+  - name: Chalons Necklace
+    level: 66
+    stats:
+      def: 15-28
+      hp: 975
+    sell_price: 475
+    type: necklace
+    quality: rare
+    found: Catapult, First Sieve wave 20
