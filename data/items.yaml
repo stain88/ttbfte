@@ -3119,3 +3119,12 @@ items:
     type: artifact
     quality: rare
     found: Fishing Rank 3
+  - name: White Shiny Necklace
+    level: 75
+    stats:
+      def: 16-32
+      hp: 1270
+    sell_price: 550
+    type: necklace
+    quality: unique
+    found: Fishing Rank 3
