@@ -2484,3 +2484,93 @@ items:
     type: necklace
     quality: rare
     found: Catapult, First Sieve wave 20
+  - name: Falcon Sickles
+    level: 30
+    stats:
+      attack: 25-29
+      attack_speed: 0.01s
+      def: 5-8
+      crit: 30%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Vikings Whore
+    level: 30
+    stats:
+      attack: 93-103
+      attack_speed: 0.45s
+      def: 6-10
+      crit: 23%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Earthquake Maker
+    level: 30
+    stats:
+      attack: 186-196
+      attack_speed: 0.95s
+      def: 5-8
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Pyramid Watcher
+    level: 30
+    stats:
+      attack: 88-98
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Magical Fishing Rod
+    level: 30
+    stats:
+      attack: 93-98
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Little David
+    level: 30
+    stats:
+      attack: 236-246
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Old King's Talisman
+    level: 30
+    stats:
+      def: 9-18
+      hp: 510
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted
+  - name: Ring Of Red Fury
+    level: 30
+    stats:
+      attack: 9%
+      hp: 410
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted
