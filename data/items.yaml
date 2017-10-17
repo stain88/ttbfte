@@ -2574,3 +2574,93 @@ items:
     type: ring
     quality: elite
     found: Crafted
+  - name: Peasant Cutters
+    level: 40
+    stats:
+      attack: 28-32
+      attack_speed: 0.01s
+      def: 6-10
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Winged Mace
+    level: 40
+    stats:
+      attack: 103-113
+      attack_speed: 0.45s
+      def: 7-12
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Seperator
+    level: 40
+    stats:
+      attack: 206-216
+      attack_speed: 0.95s
+      def: 6-10
+      crit: 22%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Outlaws Composite Bow
+    level: 40
+    stats:
+      attack: 98-108
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Goat's Head
+    level: 40
+    stats:
+      attack: 103-108
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Villager Attitude Adjuster
+    level: 40
+    stats:
+      attack: 256-266
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Looters Amulet
+    level: 40
+    stats:
+      def: 11-22
+      hp: 660
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted
+  - name: Fabulous Pillager Ring
+    level: 40
+    stats:
+      attack: 11%
+      attack_speed: 490
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted
