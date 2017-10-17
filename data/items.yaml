@@ -2659,7 +2659,175 @@ items:
     level: 40
     stats:
       attack: 11%
-      attack_speed: 490
+      hp: 490
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted
+  - name: Infinity Protector Blades
+    level: 50
+    stats:
+      attack: 29-36
+      attack_speed: 0.01s
+      def: 10-20
+      crit: 32%
+      crit_power: 2.4
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Champions Baselards
+    level: 50
+    stats:
+      attack: 31-35
+      attack_speed: 0.01s
+      def: 7-12
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted
+  - name: Infinity Whip
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.25s
+      def: 2-4
+      crit: 44%
+      crit_power: 2.3
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Beastly Steel Bar Mace
+    level: 50
+    stats:
+      attack: 118-128
+      attack_speed: 0.45s
+      def: 8-14
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted
+  - name: Infinity Nodachi
+    level: 50
+    stats:
+      attack: 118-123
+      attack_speed: 0.55s
+      def: 1-2
+      crit: 23%
+      crit_power: 1.9
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted
+  - name: Infinity Striker
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.1s
+      def: 0-0
+      crit: 33%
+      crit_power: 2.2
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Bow Of Great Destruction
+    level: 50
+    stats:
+      attack: 113-118
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted
+  - name: Infinity Origin Myth
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.8s
+      def: 0-0
+      crit: 33%
+      crit_power: 1.9
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Beast Controller
+    level: 50
+    stats:
+      attack: 118-123
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted
+  - name: Infinity Auto Baron
+    level: 50
+    stats:
+      attack: 143-148
+      attack_speed: 1.5s
+      def: 0-0
+      crit: 30%
+      crit_power: 2.1
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Notorious Rocket Launcher
+    level: 50
+    stats:
+      attack: 286-296
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted
+  - name: Immortal Neckace
+    level: 50
+    stats:
+      def: 1-2
+      hp: 999
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted
+  - name: Kings Knowledge
+    level: 50
+    stats:
+      def: 13-26
+      hp: 860
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted
+  - name: Power Ring
+    level: 50
+    stats:
+      attack: 17%
+      hp: 100
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted
+  - name: Kings Finger
+    level: 50
+    stats:
+      attack: 13%
+      hp: 650
     sell_price: TBC
     type: ring
     quality: elite
