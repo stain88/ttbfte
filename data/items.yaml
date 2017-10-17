@@ -2090,7 +2090,7 @@ items:
   - name: Elemental Warden Rod
     level: 56
     stats:
-      attack: 117-1222
+      attack: 117-122
       attack_speed: 1.56s
       def: 0-0
       crit: 17%
@@ -2936,7 +2936,7 @@ items:
       def: 9-16
       crit: 21%
       crit_power: 1.8
-    sell_price: TBC
+    sell_price: 600
     type: rod
     quality: elite
     found: Crafted, James Mason
@@ -2948,7 +2948,7 @@ items:
       def: 9-16
       crit: 22%
       crit_power: 1.8
-    sell_price: TBC
+    sell_price: 700
     type: rod
     quality: elite
     found: Crafted, James Mason
