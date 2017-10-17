@@ -3012,3 +3012,84 @@ items:
     type: ring
     quality: elite
     found: Crafted, James Mason
+  - name: Tribal Cudgel
+    level: 74
+    stats:
+      attack: 148-158
+      attack_speed: 0.51s
+      def: 7-14
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 390
+    type: onehander
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Red Mortar
+    level: 74
+    stats:
+      attack: 345-355
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 390
+    type: cannon
+    quality: unique
+    found: Pesadilla, Road Of Dreams wave 20
+  - name: Grus Necklace
+    level: 74
+    stats:
+      def: 16-31
+      hp: 1125
+    sell_price: 425
+    type: necklace
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Horsemans Hand
+    level: 74
+    stats:
+      attack: 148-153
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 390
+    type: rod
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Glass Striker
+    level: 74
+    stats:
+      attack: 143-153
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 390
+    type: bow
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Parrying Daggers
+    level: 76
+    stats:
+      attack: 41-46
+      attack_speed: 0.01s
+      def: 7-14
+      crit: 28%
+      crit_power: 2.2
+    sell_price: 500
+    type: dualwield
+    quality: rare
+    found: Pesadilla, Road Of Dreams wave 20
+  - name: Zweihander
+    level: 74
+    stats:
+      attack: 298-308
+      attack_speed: 0.96s
+      def: 6-12
+      crit: 18%
+      crit_power: 1.6
+    sell_price: 390
+    type: twohander
+    quality: unique
+    found: Pesadilla, Road Of Dreams wave 20
