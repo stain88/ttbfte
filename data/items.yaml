@@ -1915,7 +1915,7 @@ items:
     level: 10
     stats:
       def: 5-10
-      crit: 310
+      hp: 310
     sell_price: 125
     type: necklace
     quality: elite
@@ -2832,3 +2832,183 @@ items:
     type: ring
     quality: elite
     found: Crafted, Valder
+  - name: Knightly Daggers
+    level: 60
+    stats:
+      attack: 36-40
+      attack_speed: 0.01s
+      def: 8-14
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, James Mason
+  - name: Lucid Poignards
+    level: 70
+    stats:
+      attack: 42-47
+      attack_speed: 0.01s
+      def: 9-16
+      crit: 32%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, James Mason
+  - name: Morning Star
+    level: 60
+    stats:
+      attack: 138-148
+      attack_speed: 0.45s
+      def: 9-16
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Illusion Sword
+    level: 70
+    stats:
+      attack: 163-173
+      attack_speed: 0.44s
+      def: 10-18
+      crit: 25%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Knights Honor
+    level: 60
+    stats:
+      attack: 276-286
+      attack_speed: 0.95s
+      def: 8-14
+      crit: 22%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Elegant Bastard Sword
+    level: 70
+    stats:
+      attack: 326-336
+      attack_speed: 0.94s
+      def: 9-16
+      crit: 23%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Banned Knight Slayer
+    level: 60
+    stats:
+      attack: 133-143
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, James Mason
+  - name: Rainbow
+    level: 70
+    stats:
+      attack: 158-168
+      attack_speed: 0.19s
+      def: 0-0
+      crit: 27%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, James, Mason
+  - name: Neverending Castle Story
+    level: 60
+    stats:
+      attack: 138-143
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, James Mason
+  - name: Tales of Heroes
+    level: 70
+    stats:
+      attack: 163-168
+      attack_speed: 1.54s
+      def: 9-16
+      crit: 22%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, James Mason
+  - name: Siege Howitzer
+    level: 60
+    stats:
+      attack: 326-336
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, James Mason
+  - name: Dark Dreamseeker
+    level: 70
+    stats:
+      attack: 376-386
+      attack_speed: 2.94s
+      def: 0-0
+      crit: 17%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, James Mason
+  - name: Besiegers Talisman
+    level: 60
+    stats:
+      def: 15-30
+      hp: 1110
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, James Mason
+  - name: Virgo Pendant
+    level: 70
+    stats:
+      def: 17-34
+      hp: 1460
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, James Mason
+  - name: Besiegers Cross Ring
+    level: 60
+    stats:
+      attack: 15%
+      hp: 810
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, James Mason
+  - name: Dying Dream
+    level: 70
+    stats:
+      attack: 17%
+      hp: 1050
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, James Mason
