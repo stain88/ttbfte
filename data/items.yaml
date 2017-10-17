@@ -3111,3 +3111,11 @@ items:
     type: necklace
     quality: unique
     found: Fishing Rank 3
+  - name: Goblin Scout Badge
+    level: 70
+    stats:
+      attack: 21%
+    sell_price: 650
+    type: artifact
+    quality: rare
+    found: Fishing Rank 3
