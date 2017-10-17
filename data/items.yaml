@@ -3093,3 +3093,12 @@ items:
     type: twohander
     quality: unique
     found: Pesadilla, Road Of Dreams wave 20
+  - name: Wedding Ring
+    level: 70
+    stats:
+      attack: 15%
+      hp: 830
+    sell_price: 500
+    type: ring
+    quality: unique
+    found: Fishing Rank 3
