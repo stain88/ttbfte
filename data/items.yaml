@@ -1746,7 +1746,7 @@ items:
     sell_price: 500
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Pillager Bow
     level: 56
     stats:
@@ -1841,7 +1841,7 @@ items:
     sell_price: 100
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Soul Sword
     level: 10
     stats:
@@ -1853,7 +1853,7 @@ items:
     sell_price: 100
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Basement Dweller
     level: 10
     stats:
@@ -1865,7 +1865,7 @@ items:
     sell_price: 100
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Crescent Bow
     level: 10
     stats:
@@ -1877,7 +1877,7 @@ items:
     sell_price: 100
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Skull Wand
     level: 10
     stats:
@@ -1889,7 +1889,7 @@ items:
     sell_price: 100
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Skeleton Purifier
     level: 10
     stats:
@@ -1901,7 +1901,7 @@ items:
     sell_price: 125
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Skull Ring
     level: 10
     stats:
@@ -1910,7 +1910,7 @@ items:
     sell_price: 125
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Skull Pendant
     level: 10
     stats:
@@ -1919,7 +1919,7 @@ items:
     sell_price: 125
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Skull Cross
     level: 10
     stats:
@@ -1939,7 +1939,7 @@ items:
     sell_price: 200
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Sharp Bone Rapier
     level: 20
     stats:
@@ -1951,7 +1951,7 @@ items:
     sell_price: 200
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Partner In Crime
     level: 20
     stats:
@@ -1963,7 +1963,7 @@ items:
     sell_price: 200
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Bone Long Bow
     level: 20
     stats:
@@ -1975,7 +1975,7 @@ items:
     sell_price: 200
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Ruin Dwellers Rod
     level: 20
     stats:
@@ -1987,7 +1987,7 @@ items:
     sell_price: 200
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Monster Megathorn
     level: 20
     stats:
@@ -1999,7 +1999,7 @@ items:
     sell_price: 225
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Eclipse Necklace
     level: 20
     stats:
@@ -2008,7 +2008,7 @@ items:
     sell_price: 225
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Dark Moon Ring
     level: 20
     stats:
@@ -2017,7 +2017,7 @@ items:
     sell_price: 225
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Long Falchion
     level: 14
     stats:
@@ -2495,7 +2495,7 @@ items:
     sell_price: TBC
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Vikings Whore
     level: 30
     stats:
@@ -2507,7 +2507,7 @@ items:
     sell_price: TBC
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Earthquake Maker
     level: 30
     stats:
@@ -2519,7 +2519,7 @@ items:
     sell_price: TBC
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Pyramid Watcher
     level: 30
     stats:
@@ -2531,7 +2531,7 @@ items:
     sell_price: TBC
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Magical Fishing Rod
     level: 30
     stats:
@@ -2543,7 +2543,7 @@ items:
     sell_price: TBC
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Little David
     level: 30
     stats:
@@ -2555,7 +2555,7 @@ items:
     sell_price: TBC
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Old King's Talisman
     level: 30
     stats:
@@ -2564,7 +2564,7 @@ items:
     sell_price: TBC
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Ring Of Red Fury
     level: 30
     stats:
@@ -2573,7 +2573,7 @@ items:
     sell_price: TBC
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Peasant Cutters
     level: 40
     stats:
@@ -2585,7 +2585,7 @@ items:
     sell_price: TBC
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Winged Mace
     level: 40
     stats:
@@ -2597,7 +2597,7 @@ items:
     sell_price: TBC
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Seperator
     level: 40
     stats:
@@ -2609,7 +2609,7 @@ items:
     sell_price: TBC
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Outlaws Composite Bow
     level: 40
     stats:
@@ -2621,7 +2621,7 @@ items:
     sell_price: TBC
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Goat's Head
     level: 40
     stats:
@@ -2633,7 +2633,7 @@ items:
     sell_price: TBC
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Villager Attitude Adjuster
     level: 40
     stats:
@@ -2645,7 +2645,7 @@ items:
     sell_price: TBC
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Looters Amulet
     level: 40
     stats:
@@ -2654,7 +2654,7 @@ items:
     sell_price: TBC
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Fabulous Pillager Ring
     level: 40
     stats:
@@ -2663,7 +2663,7 @@ items:
     sell_price: TBC
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Protector Blades
     level: 50
     stats:
@@ -2675,7 +2675,7 @@ items:
     sell_price: TBC
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Champions Baselards
     level: 50
     stats:
@@ -2687,7 +2687,7 @@ items:
     sell_price: TBC
     type: dualwield
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Whip
     level: 50
     stats:
@@ -2699,7 +2699,7 @@ items:
     sell_price: TBC
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Beastly Steel Bar Mace
     level: 50
     stats:
@@ -2711,7 +2711,7 @@ items:
     sell_price: TBC
     type: onehander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Nodachi
     level: 50
     stats:
@@ -2723,7 +2723,7 @@ items:
     sell_price: TBC
     type: twohander
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Striker
     level: 50
     stats:
@@ -2735,7 +2735,7 @@ items:
     sell_price: TBC
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Bow Of Great Destruction
     level: 50
     stats:
@@ -2747,7 +2747,7 @@ items:
     sell_price: TBC
     type: bow
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Origin Myth
     level: 50
     stats:
@@ -2759,7 +2759,7 @@ items:
     sell_price: TBC
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Beast Controller
     level: 50
     stats:
@@ -2771,7 +2771,7 @@ items:
     sell_price: TBC
     type: rod
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Infinity Auto Baron
     level: 50
     stats:
@@ -2783,7 +2783,7 @@ items:
     sell_price: TBC
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Notorious Rocket Launcher
     level: 50
     stats:
@@ -2795,7 +2795,7 @@ items:
     sell_price: TBC
     type: cannon
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Immortal Neckace
     level: 50
     stats:
@@ -2804,7 +2804,7 @@ items:
     sell_price: TBC
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Kings Knowledge
     level: 50
     stats:
@@ -2813,7 +2813,7 @@ items:
     sell_price: TBC
     type: necklace
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Power Ring
     level: 50
     stats:
@@ -2822,7 +2822,7 @@ items:
     sell_price: TBC
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
   - name: Kings Finger
     level: 50
     stats:
@@ -2831,4 +2831,4 @@ items:
     sell_price: TBC
     type: ring
     quality: elite
-    found: Crafted
+    found: Crafted, Valder
