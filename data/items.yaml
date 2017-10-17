@@ -3128,3 +3128,27 @@ items:
     type: necklace
     quality: unique
     found: Fishing Rank 3
+  - name: Unicorn Trident Rod
+    level: 76
+    stats:
+      attack: 162-167
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 19%
+      crit_power: 1.7
+    sell_price: 500
+    type: rod
+    quality: rare
+    found: Undead, Road Of Dreams wave 30
+  - name: Green Knives
+    level: 56
+    stats:
+      attack: 30-34
+      attack_speed: 0.01s
+      def: 6-11
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 400
+    type: dualwield
+    quality: rare
+    found: Wiz, Slime wave 30
