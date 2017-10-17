@@ -3102,3 +3102,12 @@ items:
     type: ring
     quality: unique
     found: Fishing Rank 3
+  - name: Mothers Necklace
+    level: 70
+    stats:
+      def: 15-32
+      hp: 1150
+    sell_price: 500
+    type: necklace
+    quality: unique
+    found: Fishing Rank 3
