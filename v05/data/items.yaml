@@ -1,0 +1,3154 @@
+---
+items:
+  - name: Wooden Daggers
+    level: 1
+    stats:
+      attack: 13-17
+      attack_speed: 0.01s
+      def: 1-2
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 1
+    sell_price: 0
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Daggers
+    level: 5
+    stats:
+      attack: 14-18
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 25
+    sell_price: 12
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Kitchen Knives
+    level: 10
+    stats:
+      attack: 16-20
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 50
+    sell_price: 25
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Stilettos
+    level: 15
+    stats:
+      attack: 17-21
+      attack_speed: 0.01s
+      def: 2-4
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 75
+    sell_price: 37
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Hunters Knives
+    level: 20
+    stats:
+      attack: 18-22
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 100
+    sell_price: 50
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Long Daggers
+    level: 25
+    stats:
+      attack: 19-23
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 150
+    sell_price: 75
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rondel Daggers
+    level: 30
+    stats:
+      attack: 21-25
+      attack_speed: 0.01s
+      def: 3-6
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 200
+    sell_price: 100
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Baselards
+    level: 35
+    stats:
+      attack: 22-26
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 250
+    sell_price: 125
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Pugiones
+    level: 40
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 300
+    sell_price: 150
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Ear Daggers
+    level: 45
+    stats:
+      attack: 24-28
+      attack_speed: 0.01s
+      def: 4-8
+      crit: 25%
+      crit_power: 2.1
+    buy_price: 500
+    sell_price: 250
+    type: dualwield
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Wooden Sword
+    level: 1
+    stats:
+      attack: 50-60
+      attack_speed: 0.5s
+      def: 2-4
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 1
+    sell_price: 0
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Dark Torch
+    level: 5
+    stats:
+      attack: 55-65
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 25
+    sell_price: 12
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Sharp Harpoon
+    level: 10
+    stats:
+      attack: 60-70
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 50
+    sell_price: 25
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Spiked Club
+    level: 15
+    stats:
+      attack: 65-75
+      attack_speed: 0.5s
+      def: 3-6
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 75
+    sell_price: 37
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Pick
+    level: 20
+    stats:
+      attack: 70-80
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 100
+    sell_price: 50
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Machete
+    level: 25
+    stats:
+      attack: 75-85
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 150
+    sell_price: 75
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shillelagh
+    level: 30
+    stats:
+      attack: 80-90
+      attack_speed: 0.5s
+      def: 4-8
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 200
+    sell_price: 100
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Short Sword
+    level: 35
+    stats:
+      attack: 85-99
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 250
+    sell_price: 125
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Axe
+    level: 40
+    stats:
+      attack: 90-100
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 300
+    sell_price: 150
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Straight Sword
+    level: 45
+    stats:
+      attack: 95-105
+      attack_speed: 0.5s
+      def: 5-10
+      crit: 18%
+      crit_power: 2.0
+    buy_price: 500
+    sell_price: 250
+    type: onehander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Two Handed Practice Sword
+    level: 1
+    stats:
+      attack: 100-110
+      attack_speed: 1s
+      def: 1-2
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 1
+    sell_price: 0
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Maul
+    level: 5
+    stats:
+      attack: 110-120
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 25
+    sell_price: 12
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Greatsword
+    level: 10
+    stats:
+      attack: 120-130
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 50
+    sell_price: 25
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Heavy Glaive
+    level: 15
+    stats:
+      attack: 130-140
+      attack_speed: 1s
+      def: 2-4
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 75
+    sell_price: 37
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Two Handed Sword
+    level: 20
+    stats:
+      attack: 140-150
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 100
+    sell_price: 50
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Two Handed Axe
+    level: 25
+    stats:
+      attack: 150-160
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 150
+    sell_price: 75
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Bastard Sword
+    level: 30
+    stats:
+      attack: 160-170
+      attack_speed: 1s
+      def: 3-6
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 200
+    sell_price: 100
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Two Handed Estoc
+    level: 35
+    stats:
+      attack: 170-180
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 250
+    sell_price: 125
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Espada Bastarda
+    level: 40
+    stats:
+      attack: 180-190
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 300
+    sell_price: 150
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Hand And A Half Sword
+    level: 45
+    stats:
+      attack: 190-200
+      attack_speed: 1s
+      def: 4-8
+      crit: 16%
+      crit_power: 1.5
+    buy_price: 500
+    sell_price: 250
+    type: twohander
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Simple Bow
+    level: 1
+    stats:
+      attack: 45-55
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 1
+    sell_price: 0
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Short Bow
+    level: 5
+    stats:
+      attack: 50-60
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 25
+    sell_price: 12
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Citizens Self Bow
+    level: 10
+    stats:
+      attack: 55-65
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 50
+    sell_price: 25
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Nomad Bow
+    level: 15
+    stats:
+      attack: 60-70
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 75
+    sell_price: 37
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Adventurer Short Bow
+    level: 20
+    stats:
+      attack: 65-75
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 100
+    sell_price: 50
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Ambassadors Flatbow
+    level: 25
+    stats:
+      attack: 70-80
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 150
+    sell_price: 75
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Hunting Bow
+    level: 30
+    stats:
+      attack: 75-85
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 200
+    sell_price: 100
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Horn Bow
+    level: 35
+    stats:
+      attack: 80-90
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 250
+    sell_price: 125
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Soldiers Recurve Bow
+    level: 40
+    stats:
+      attack: 85-95
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 300
+    sell_price: 150
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Arming Bow
+    level: 45
+    stats:
+      attack: 90-100
+      attack_speed: 0.25s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.9
+    buy_price: 500
+    sell_price: 250
+    type: bow
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Wooden Rod
+    level: 1
+    stats:
+      attack: 50-55
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 1
+    sell_price: 0
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shepherd Rod
+    level: 5
+    stats:
+      attack: 55-60
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 25
+    sell_price: 12
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Miner Cane
+    level: 10
+    stats:
+      attack: 60-65
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 50
+    sell_price: 25
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Scepter
+    level: 15
+    stats:
+      attack: 65-70
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 75
+    sell_price: 37
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Cursing Rod
+    level: 20
+    stats:
+      attack: 70-75
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 100
+    sell_price: 50
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Village Blesser
+    level: 25
+    stats:
+      attack: 75-80
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 150
+    sell_price: 75
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Wind Controller
+    level: 30
+    stats:
+      attack: 80-85
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 200
+    sell_price: 100
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Green Star Rod
+    level: 35
+    stats:
+      attack: 85-90
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 250
+    sell_price: 125
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Subterranean Crook
+    level: 40
+    stats:
+      attack: 90-95
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 300
+    sell_price: 150
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shamans Stick
+    level: 45
+    stats:
+      attack: 95-100
+      attack_speed: 1.6s
+      def: 0-0
+      crit: 15%
+      crit_power: 1.6
+    buy_price: 500
+    sell_price: 250
+    type: rod
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Hand Cannon
+    level: 10
+    stats:
+      attack: 170-180
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 60
+    sell_price: 30
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shoulder Cannon
+    level: 15
+    stats:
+      attack: 180-190
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 100
+    sell_price: 50
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rusty Saker
+    level: 20
+    stats:
+      attack: 190-200
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 125
+    sell_price: 62
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Town Cannon
+    level: 25
+    stats:
+      attack: 200-210
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 175
+    sell_price: 87
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Iron Falconet
+    level: 30
+    stats:
+      attack: 210-220
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 225
+    sell_price: 112
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Demi Cannon
+    level: 35
+    stats:
+      attack: 220-230
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 275
+    sell_price: 137
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Ruined Carronade
+    level: 40
+    stats:
+      attack: 230-240
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 325
+    sell_price: 162
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Relief Culverin
+    level: 45
+    stats:
+      attack: 240-250
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 525
+    sell_price: 262
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shadow Blaster
+    level: 50
+    stats:
+      attack: 250-260
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 725
+    sell_price: 362
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Minion
+    level: 55
+    stats:
+      attack: 260-270
+      attack_speed: 3s
+      def: 0-0
+      crit: 10%
+      crit_power: 1.8
+    buy_price: 999
+    sell_price: 499
+    type: cannon
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Rotten Wooden Ring
+    level: 1
+    stats:
+      attack: 1%
+      hp: 40
+    buy_price: 25
+    sell_price: 12
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Simple Ring
+    level: 5
+    stats:
+      attack: 2%
+      hp: 80
+    buy_price: 50
+    sell_price: 25
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Metal Ring
+    level: 10
+    stats:
+      attack: 3%
+      hp: 120
+    buy_price: 100
+    sell_price: 50
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: BOs Ring
+    level: 15
+    stats:
+      attack: 4%
+      hp: 160
+    buy_price: 250
+    sell_price: 125
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Thumb Ring
+    level: 20
+    stats:
+      attack: 5%
+      hp: 200
+    buy_price: 500
+    sell_price: 250
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Warriors Seal
+    level: 25
+    stats:
+      attack: 6%
+      hp: 240
+    buy_price: 999
+    sell_price: 499
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Silver Ring
+    level: 30
+    stats:
+      attack: 7%
+      hp: 280
+    buy_price: 2250
+    sell_price: 1125
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Ambassadors Ring
+    level: 35
+    stats:
+      attack: 8%
+      hp: 320
+    buy_price: 5000
+    sell_price: 2500
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Engraved Silver Ring
+    level: 40
+    stats:
+      attack: 9%
+      hp: 360
+    buy_price: 12500
+    sell_price: 6250
+    type: ring
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Simple Wooden Necklace
+    level: 1
+    stats:
+      def: 0-1
+      hp: 50
+    buy_price: 25
+    sell_price: 12
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Commoner Necklace
+    level: 5
+    stats:
+      def: 1-2
+      hp: 100
+    buy_price: 50
+    sell_price: 25
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Soldiers Amulet
+    level: 10
+    stats:
+      def: 2-4
+      hp: 150
+    buy_price: 100
+    sell_price: 50
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Hunters Necklace
+    level: 15
+    stats:
+      def: 3-6
+      hp: 200
+    buy_price: 250
+    sell_price: 125
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Travelers Necklace
+    level: 20
+    stats:
+      def: 4-8
+      hp: 250
+    buy_price: 500
+    sell_price: 250
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Warriors Pendant
+    level: 25
+    stats:
+      def: 5-10
+      hp: 300
+    buy_price: 999
+    sell_price: 499
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Shell Necklace
+    level: 30
+    stats:
+      def: 6-12
+      hp: 350
+    buy_price: 2250
+    sell_price: 1125
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Fang Necklace
+    level: 35
+    stats:
+      def: 7-14
+      hp: 400
+    buy_price: 5000
+    sell_price: 2500
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Guardian Silver Pendant
+    level: 40
+    stats:
+      def: 8-16
+      hp: 450
+    buy_price: 12500
+    sell_price: 6250
+    type: necklace
+    quality: ordinary
+    found: Ebenezer's Shop
+  - name: Bone Misericordes
+    level: 4
+    stats:
+      attack: 15-19
+      attack_speed: 0.01s
+      def: 2-5
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 12
+    type: dualwield
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Carnwennans
+    level: 14
+    stats:
+      attack: 17-22
+      attack_speed: 0.01s
+      def: 2-7
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 25
+    type: dualwield
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Skeletons Sidearms
+    level: 24
+    stats:
+      attack: 20-24
+      attack_speed: 0.02s
+      def: 3-7
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 75
+    type: dualwield
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Strange Scalpels
+    level: 34
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-9
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 125
+    type: dualwield
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Wooden Mallet
+    level: 4
+    stats:
+      attack: 58-63
+      attack_speed: 0.47s
+      def: 3-7
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 12
+    type: onehander
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Flanged Bone Mace
+    level: 24
+    stats:
+      attack: 78-88
+      attack_speed: 0.45s
+      def: 4-11
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 75
+    type: onehander
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Octopus Hook
+    level: 34
+    stats:
+      attack: 88-98
+      attack_speed: 0.44s
+      def: 5-12
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 125
+    type: onehander
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Long Pickaxe
+    level: 24
+    stats:
+      attack: 158-168
+      attack_speed: 0.95s
+      def: 3-7
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 75
+    type: twohander
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Sharp Fish Dadao
+    level: 34
+    stats:
+      attack: 178-188
+      attack_speed: 0.96s
+      def: 4-9
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 125
+    type: twohander
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Old Ruin Horn Bow
+    level: 14
+    stats:
+      attack: 63-73
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 25
+    type: bow
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Spider Bow
+    level: 24
+    stats:
+      attack: 73-83
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 75
+    type: bow
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Sailors Recurve Bow
+    level: 34
+    stats:
+      attack: 83-93
+      attack_speed: 0.43s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 125
+    type: bow
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Traveler's Stick
+    level: 4
+    stats:
+      attack: 58-63
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 12
+    type: rod
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Secret River Wand
+    level: 34
+    stats:
+      attack: 88-93
+      attack_speed: 1.54s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 125
+    type: rod
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Field Gun
+    level: 4
+    stats:
+      attack: 165-175
+      attack_speed: 2.98s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 15
+    type: cannon
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Blasphemous Howitzer
+    level: 14
+    stats:
+      attack: 185-195
+      attack_speed: 3.1s
+      def: 0-0
+      crit: 14%
+      crit_power: 1.9
+    sell_price: 30
+    type: cannon
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Wall Destroyer
+    level: 24
+    stats:
+      attack: 205-215
+      attack_speed: 2.97s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 95
+    type: cannon
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Naval Cannon
+    level: 34
+    stats:
+      attack: 225-235
+      attack_speed: 2.96s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 150
+    type: cannon
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Old Moon
+    level: 14
+    stats:
+      attack: 4%
+      hp: 180
+    sell_price: 50
+    type: ring
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Grotto Ring
+    level: 24
+    stats:
+      attack: 6%
+      hp: 250
+    sell_price: 80
+    type: ring
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Fighters Ring
+    level: 30
+    stats:
+      attack: 9%
+      hp: 350
+    sell_price: 150
+    type: ring
+    quality: unique
+    found: Fishing Rank 1
+  - name: Skeleton Necklace
+    level: 4
+    stats:
+      def: 2-3
+      hp: 125
+    sell_price: 15
+    type: necklace
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Path Of The Moon
+    level: 14
+    stats:
+      def: 4-7
+      hp: 225
+    sell_price: 50
+    type: necklace
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Greed Necklace
+    level: 24
+    stats:
+      def: 6-11
+      hp: 325
+    sell_price: 80
+    type: necklace
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Wicingas Necklace
+    level: 34
+    stats:
+      def: 8-15
+      hp: 425
+    sell_price: 135
+    type: necklace
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Undead Toothpicks
+    level: 16
+    stats:
+      attack: 18-23
+      attack_speed: 0.02s
+      def: 3-6
+      crit: 28%
+      crit_power: 2.2
+    sell_price: 50
+    type: dualwield
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Rippers Daggers
+    level: 36
+    stats:
+      attack: 24-28
+      attack_speed: 0.01s
+      def: 5-9
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 150
+    type: dualwield
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Shish Kabosword
+    level: 16
+    stats:
+      attack: 72-82
+      attack_speed: 0.47s
+      def: 4-8
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 50
+    type: onehander
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Meat Cleaver
+    level: 26
+    stats:
+      attack: 82-92
+      attack_speed: 0.48s
+      def: 5-9
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 99
+    type: onehander
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Slicer
+    level: 26
+    stats:
+      attack: 165-175
+      attack_speed: 0.97s
+      def: 4-7
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 99
+    type: twohander
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Lost Pirate Anchor
+    level: 36
+    stats:
+      attack: 185-195
+      attack_speed: 0.98s
+      def: 5-9
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 150
+    type: twohander
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Bone Bow
+    level: 26
+    stats:
+      attack: 77-87
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 99
+    type: bow
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Ruin Staff
+    level: 16
+    stats:
+      attack: 72-77
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 50
+    type: rod
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Humiliator
+    level: 36
+    stats:
+      attack: 234-244
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 165
+    type: cannon
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Corrupt Ring
+    level: 6
+    stats:
+      attack: 3%
+      hp: 140
+    sell_price: 18
+    type: ring
+    quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Half Moon Ring
+    level: 16
+    stats:
+      attack: 5%
+      hp: 220
+    sell_price: 65
+    type: ring
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Wicked Cave Ring
+    level: 26
+    stats:
+      attack: 7%
+      hp: 300
+    sell_price: 112
+    type: ring
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Necklace Of Lost Hope
+    level: 6
+    stats:
+      def: 3-4
+      hp: 175
+    sell_price: 18
+    type: necklace
+    quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Chimera Necklace
+    level: 26
+    stats:
+      def: 7-12
+      hp: 375
+    sell_price: 112
+    type: necklace
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Codex Gigas
+    level: 40
+    stats:
+      attack: 12%
+    sell_price: 350
+    type: artifact
+    quality: rare
+  - name: Spider Web Rod
+    level: 29
+    stats:
+      attack: 91-99
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 19%
+      crit_power: 1.9
+    sell_price: 250
+    type: rod
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Shadow Circle
+    level: 29
+    stats:
+      attack: 8%
+      hp: 390
+    sell_price: 262
+    type: ring
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Union Of The Crowns
+    level: 30
+    stats:
+      hp: 15%
+    sell_price: 300
+    type: artifact
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Free Will
+    level: 40
+    stats:
+      crit: 2%
+    sell_price: 400
+    type: artifact
+    quality: very rare
+  - name: Ancient Cross
+    level: 10
+    stats:
+      hp: 5%
+    sell_price: 100
+    type: artifact
+    quality: very rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Perseus Necklace
+    level: 36
+    stats:
+      def: 9-16
+      hp: 475
+    sell_price: 164
+    type: necklace
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Return Of The Moon
+    level: 16
+    stats:
+      def: 5-8
+      hp: 275
+    sell_price: 65
+    type: necklace
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Red Lotus
+    level: 20
+    stats:
+      hp: 6%
+    sell_price: 150
+    type: artifact
+    quality: rare
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Rusty Picksword
+    level: 14
+    stats:
+      attack: 68-78
+      attack_speed: 0.46s
+      def: 3-9
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 25
+    type: onehander
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Sledgehammer
+    level: 4
+    stats:
+      attack: 118-128
+      attack_speed: 0.99s
+      def: 2-5
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 12
+    type: twohander
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Falchion
+    level: 36
+    stats:
+      attack: 92-102
+      attack_speed: 0.45s
+      def: 6-11
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 150
+    type: onehander
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Boar Sword
+    level: 44
+    stats:
+      attack: 98-108
+      attack_speed: 0.45a
+      def: 5-13
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 225
+    type: onehander
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Notorious Arming Bow
+    level: 44
+    stats:
+      attack: 93-103
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 225
+    type: bow
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Village Basilic
+    level: 44
+    stats:
+      attack: 245-255
+      attack_speed: 2.99s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 250
+    type: cannon
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Shadow Claws
+    level: 44
+    stats:
+      attack: 25-29
+      attack_speed: 0.01s
+      def: 4-10
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 225
+    type: dualwield
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Vintage Greatsword
+    level: 44
+    stats:
+      attack: 198-208
+      attack_speed: 0.98s
+      def: 4-10
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 225
+    type: twohander
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Troll Ring
+    level: 44
+    stats:
+      attack: 10%
+      hp: 420
+    sell_price: 240
+    type: ring
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Pleb Rippers
+    level: 46
+    stats:
+      def: 11-20
+      crit: 575
+    sell_price: 262
+    type: necklace
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Big Dick
+    level: 46
+    stats:
+      attack: 254-264
+      attack_speed: 3.05s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 265
+    type: cannon
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Rod Of Revelation
+    level: 44
+    stats:
+      attack: 98-103
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 225
+    type: rod
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Paw Talisman
+    level: 50
+    stats:
+      def: 11-24
+      crit: 650
+    sell_price: 400
+    type: necklace
+    quality: unique
+    found: Fishing Rank 2
+  - name: Inbred Slayer Axe
+    level: 46
+    stats:
+      attack: 102-112
+      attack_speed: 0.47s
+      def: 6-12
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 250
+    type: onehander
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Selfish Blade
+    level: 46
+    stats:
+      attack: 205-215
+      attack_speed: 0.99s
+      def: 5-10
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 250
+    type: twohander
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Horned Daggers
+    level: 46
+    stats:
+      attack: 27-31
+      attack_speed: 0.01s
+      def: 5-10
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 250
+    type: dualwield
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Bearbow
+    level: 46
+    stats:
+      attack: 97-107
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 250
+    type: bow
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Way of Cain
+    level: 50
+    stats:
+      attack: 9%
+    sell_price: 450
+    type: artifact
+    quality: rare
+    found: Fishing Rank 2
+  - name: Savage Ring
+    level: 46
+    stats:
+      attack: 11%
+      hp: 460
+    sell_price: 262
+    type: ring
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Pearl Ring
+    level: 50
+    stats:
+      attack: 11%
+      hp: 550
+    sell_price: 400
+    type: ring
+    quality: unique
+    found: Fishing Rank 2
+  - name: Pillagers Talisman
+    level: 44
+    stats:
+      def: 10-19
+      crit: 525
+    sell_price: 240
+    type: necklace
+    quality: unique
+    found: Lezard Barnabas, Purge wave 10
+  - name: Night Summoner
+    level: 46
+    stats:
+      attack: 102-107
+      attack_speed: 1.59s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 250
+    type: rod
+    quality: rare
+    found: Sonja The Pillager, Purge wave 20
+  - name: Simple Slime Bow
+    level: 54
+    stats:
+      attack: 103-113
+      attack_speed: 0.15s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 335
+    type: bow
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Filthy Blades
+    level: 54
+    stats:
+      attack: 28-32
+      attack_speed: 0.01s
+      def: 5-11
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 335
+    type: dualwield
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Big Bang
+    level: 50
+    stats:
+      attack: 236-246
+      attack_speed: 0.95s
+      def: 7-12
+      crit: 22%
+      crit_power: 1.8
+    sell_price: 500
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Pillager Bow
+    level: 56
+    stats:
+      attack: 112-117
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 400
+    type: bow
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Green Rana Ring
+    level: 54
+    stats:
+      attack: 12%
+      hp: 500
+    sell_price: 345
+    type: ring
+    quality: unique
+    found: Sir De Haro, Slime wave 20
+  - name: Kanabo
+    level: 54
+    stats:
+      attack: 218-228
+      attack_speed: 0.96s
+      def: 5-11
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 335
+    type: twohander
+    quality: unique
+    found: Sir De Haro, Slime wave 20
+  - name: Kilij
+    level: 54
+    stats:
+      attack: 108-118
+      attack_speed: 0.46s
+      def: 6-13
+      crit: 19%
+      crit_power: 2.1
+    sell_price: 335
+    type: onehander
+    quality: unique
+    found: Berzerkgang, Slime wave 10; Sir De Haro, Slime wave 20
+  - name: Slime In A Bottle
+    level: 50
+    stats:
+      crit: 2%
+    sell_price: 450
+    type: artifact
+    quality: rare
+    found: Mad Spud, Slime wave 40
+  - name: Slime Pendant
+    level: 54
+    stats:
+      def: 12-23
+      hp: 625
+    sell_price: 345
+    type: necklace
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Strong Bow
+    level: 4
+    stats:
+      attack: 53-63
+      attack_speed: 0.23s
+      def: 0-0
+      crit: 21%
+      crit_power: 2.0
+    sell_price: 12
+    type: bow
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Bone Ring
+    level: 4
+    stats:
+      attack: 2%
+      hp: 100
+    sell_price: 15
+    type: ring
+    quality: unique
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Skull Daggers
+    level: 10
+    stats:
+      attack: 20-24
+      attack_speed: 0.01s
+      def: 3-7
+      crit: 30%
+      crit_power: 2.3
+    sell_price: 100
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Soul Sword
+    level: 10
+    stats:
+      attack: 73-83
+      attack_speed: 0.45s
+      def: 4-9
+      crit: 23%
+      crit_power: 2.2
+    sell_price: 100
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Basement Dweller
+    level: 10
+    stats:
+      attack: 146-156
+      attack_speed: 0.95s
+      def: 3-7
+      crit: 21%
+      crit_power: 1.8
+    sell_price: 100
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Crescent Bow
+    level: 10
+    stats:
+      attack: 68-78
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 2.1
+    sell_price: 100
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Skull Wand
+    level: 10
+    stats:
+      attack: 73-78
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.8
+    sell_price: 100
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Skeleton Purifier
+    level: 10
+    stats:
+      attack: 196-206
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2.0
+    sell_price: 125
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Skull Ring
+    level: 10
+    stats:
+      attack: 5%
+      hp: 250
+    sell_price: 125
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Skull Pendant
+    level: 10
+    stats:
+      def: 5-10
+      hp: 310
+    sell_price: 125
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Skull Cross
+    level: 10
+    stats:
+      hp: 3%
+    sell_price: 50
+    type: artifact
+    quality: rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Notorious Dirks
+    level: 20
+    stats:
+      attack: 23-27
+      attack_speed: 0.01s
+      def: 4-6
+      crit: 30%
+      crit_power: 2.3
+    sell_price: 200
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Sharp Bone Rapier
+    level: 20
+    stats:
+      attack: 83-93
+      attack_speed: 0.45s
+      def: 5-8
+      crit: 23%
+      crit_power: 2.2
+    sell_price: 200
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Partner In Crime
+    level: 20
+    stats:
+      attack: 166-176
+      attack_speed: 0.95s
+      def: 4-6
+      crit: 21%
+      crit_power: 1.8
+    sell_price: 200
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Bone Long Bow
+    level: 20
+    stats:
+      attack: 78-88
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 2.1
+    sell_price: 200
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Ruin Dwellers Rod
+    level: 20
+    stats:
+      attack: 83-88
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.8
+    sell_price: 200
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Monster Megathorn
+    level: 20
+    stats:
+      attack: 216-226
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2.0
+    sell_price: 225
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Eclipse Necklace
+    level: 20
+    stats:
+      def: 7-14
+      hp: 410
+    sell_price: 225
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Dark Moon Ring
+    level: 20
+    stats:
+      attack: 7%
+      hp: 330
+    sell_price: 225
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Long Falchion
+    level: 14
+    stats:
+      attack: 138-148
+      attack_speed: 0.97s
+      def: 2-6
+      crit: 17%
+      crit_power: 1.6
+    sell_price: 25
+    type: twohander
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Crude Ruin Bow
+    level: 16
+    stats:
+      attack: 67-77
+      attack_speed: 0.23s
+      def: 0-0
+      crit: 23%
+      crit_power: 2.0
+    sell_price: 50
+    type: bow
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Aquila Necklace
+    level: 9
+    stats:
+      def: 4-5
+      hp: 290
+    sell_price: 105
+    type: necklace
+    quality: very rare
+    found: Skeleton Champion, When All Hope Is Lost wave 10
+  - name: Lost Fragile Rod
+    level: 14
+    stats:
+      attack: 68-73
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 25
+    type: rod
+    quality: unique
+    found: Inbred Brawler, Moonlight Ruins wave 10
+  - name: Moonlight Ruiner
+    level: 16
+    stats:
+      attack: 194-204
+      attack_speed: 2.99s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 60
+    type: cannon
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Executioner Blade
+    level: 16
+    stats:
+      attack: 145-155
+      attack_speed: 0.95s
+      def: 3-5
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 50
+    type: twohander
+    quality: rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Elemental Warden Rod
+    level: 56
+    stats:
+      attack: 117-122
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 400
+    type: rod
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Ygrenes Wish
+    level: 20
+    stats:
+      attack: 10%
+    sell_price: 200
+    type: artifact
+    quality: very rare
+    found: Skelethrone, Moonlight Ruins wave 20
+  - name: Hesperados Necklace
+    level: 56
+    stats:
+      def: 13-24
+      hp: 675
+    sell_price: 418
+    type: necklace
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Purple Drank
+    level: 59
+    stats:
+      attack: 322-335
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 11%
+      crit_power: 2.0
+    sell_price: 790
+    type: cannon
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Witch Sword
+    level: 59
+    stats:
+      attack: 136-149
+      attack_speed: 0.47s
+      def: 6-13
+      crit: 19%
+      crit_power: 2.3
+    sell_price: 750
+    type: onehander
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Infinity Necklace
+    level: 59
+    stats:
+      def: 14-25
+      hp: 764
+    sell_price: 518
+    type: necklace
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Happy Slime
+    level: 54
+    stats:
+      attack: 108-113
+      attack_speed: 1.54s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 335
+    type: rod
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Slime Smasher
+    level: 54
+    stats:
+      attack: 265-275
+      attack_speed: 2.94s
+      def: 0-0
+      crit: 11%
+      crit_power: 1.9
+    sell_price: 350
+    type: cannon
+    quality: unique
+    found: Berzerkgang, Slime wave 10
+  - name: Bang Bang
+    level: 29
+    stats:
+      attack: 232-245
+      attack_speed: 3.05s
+      def: 0-0
+      crit: 12%
+      crit_power: 2.1
+    sell_price: 265
+    type: cannon
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Unlucky Drago Stick
+    level: 24
+    stats:
+      attack: 78-83
+      attack_speed: 1.56s
+      def: 0-0
+      crit: 16%
+      crit_power: 1.7
+    sell_price: 75
+    type: rod
+    quality: unique
+    found: Fluffy Webster, Cave of Humiliation wave 10
+  - name: Hope Blaster
+    level: 26
+    stats:
+      attack: 214-224
+      attack_speed: 2.97s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 110
+    type: cannon
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Bow Of Humiliation
+    level: 29
+    stats:
+      attack: 86-99
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.1
+    sell_price: 250
+    type: bow
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Skeleton Battle Bow
+    level: 36
+    stats:
+      attack: 87-97
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 150
+    type: bow
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Dead Sea Scrolls
+    level: 30
+    stats:
+      attack: 6%
+    sell_price: 250
+    type: artifact
+    quality: rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Notorious Light Feather
+    level: 49
+    stats:
+      attack: 111-119
+      attack_speed: 0.26s
+      def: 0-0
+      crit: 24%
+      crit_power: 2.1
+    sell_price: 500
+    type: bow
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Staff Of Temptation
+    level: 49
+    stats:
+      attack: 116-135
+      attack_speed: 1.58s
+      def: 0-0
+      crit: 22%
+      crit_power: 1.8
+    sell_price: 500
+    type: rod
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Simple Fairy Cane
+    level: 26
+    stats:
+      attack: 82-87
+      attack_speed: 1.57s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 99
+    type: rod
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Curved Daggers
+    level: 26
+    stats:
+      attack: 22-26
+      attack_speed: 0.01s
+      def: 4-7
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 99
+    type: dualwield
+    quality: rare
+    found: Lady Famine, Cave of Humiliation wave 20
+  - name: Hollow Scepter
+    level: 36
+    stats:
+      attack: 92-97
+      attack_speed: 1.58s
+      def: 0-0
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 150
+    type: rod
+    quality: rare
+    found: Nameless Skull Knight, Misadventures wave 20
+  - name: Long Swordfish
+    level: 39
+    stats:
+      attack: 203-215
+      attack_speed: 0.99s
+      def: 6-9
+      crit: 20%
+      crit_power: 1.7
+    sell_price: 300
+    type: twohander
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Cutlass
+    level: 39
+    stats:
+      attack: 101-114
+      attack_speed: 0.44s
+      def: 5-8
+      crit: 30%
+      crit_power: 1.8
+    sell_price: 300
+    type: onehander
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Ring Of Tristis Flumen
+    level: 34
+    stats:
+      attack: 8%
+      hp: 340
+    sell_price: 135
+    type: ring
+    quality: unique
+    found: Bone Blesser, Misadventures wave 10
+  - name: Lepus Necklace
+    level: 29
+    stats:
+      def: 8-13
+      hp: 490
+    sell_price: 262
+    type: necklace
+    quality: very rare
+    found: Amduscias, Cave of Humiliation wave 30
+  - name: Beach Necklace
+    level: 30
+    stats:
+      def: 7-16
+      hp: 450
+    sell_price: 150
+    type: necklace
+    quality: unique
+    found: Fishing Rank 1
+  - name: Magma Stone
+    level: 30
+    stats:
+      attack: 9%
+    sell_price: 250
+    type: artifact
+    quality: rare
+    found: Fishing Rank 1
+  - name: Shirshons
+    level: 50
+    stats:
+      hp: 15%
+    sell_price: 450
+    type: artifact
+    quality: rare
+    found: Fishing Rank 2
+  - name: Book Of The Living Dead
+    level: 40
+    stats:
+      attack: 10%
+    sell_price: 400
+    type: artifact
+    quality: very rare
+    found: Darkest Stranger, Misadventures wave 30
+  - name: Spiral Serpent Ring
+    level: 56
+    stats:
+      attack: 13%
+      hp: 418
+    sell_price: 262
+    type: ring
+    quality: rare
+    found: Mad Spud, Slime wave 40
+  - name: Slime Falchion
+    level: 56
+    stats:
+      attack: 117-127
+      attack_speed: 0.44s
+      def: 7-13
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 400
+    type: onehander
+    quality: rare
+    found: Mad Spud, Slime wave 40
+  - name: Ring of Twisted Trasgo
+    level: 59
+    stats:
+      attack: 14%
+      hp: 630
+    sell_price: 764
+    type: ring
+    quality: very rare
+    found: Slime King Pallache, Slime wave 50
+  - name: Lazy Mette
+    level: 56
+    stats:
+      attack: 284-294
+      attack_speed: 2.96s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 415
+    type: cannon
+    quality: rare
+    found: Wiz, Slime wave 30
+  - name: Bandit Greatsword
+    level: 56
+    stats:
+      attack: 235-245
+      attack_speed: 0.94s
+      def: 6-11
+      crit: 18%
+      crit_power: 1.7
+    sell_price: 400
+    type: twohander
+    quality: rare
+    found: Wiz, Slime wave 30; Mad Spud, Slime wave 40
+  - name: Half Moon Scimitar
+    level: 49
+    stats:
+      attack: 233-245
+      attack_speed: 0.96s
+      def: 4-11
+      crit: 18%
+      crit_power: 1.8
+    sell_price: 500
+    type: twohander
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Outlaw Ring
+    level: 49
+    stats:
+      attack: 12%
+      hp: 550
+    sell_price: 518
+    type: ring
+    quality: very rare
+    found: Martin Looter King, Purge wave 30
+  - name: Billaos
+    level: 66
+    stats:
+      attack: 35-39
+      attack_speed: 0.01s
+      def: 7-13
+      crit: 27%
+      crit_power: 2.2
+    sell_price: 450
+    type: dualwield
+    quality: rare
+    found: Villager Pillager, First Siege wave 10
+  - name: Siege Bow
+    level: 66
+    stats:
+      attack: 132-142
+      attack_speed: 0.21s
+      def: 0-0
+      crit: 23%
+      crit_power: 2.0
+    sell_price: 450
+    type: bow
+    quality: rare
+    found: Villager Pillager, First Siege wave 10
+  - name: Chalons Necklace
+    level: 66
+    stats:
+      def: 15-28
+      hp: 975
+    sell_price: 475
+    type: necklace
+    quality: rare
+    found: Catapult, First Sieve wave 20
+  - name: Falcon Sickles
+    level: 30
+    stats:
+      attack: 25-29
+      attack_speed: 0.01s
+      def: 5-8
+      crit: 30%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Vikings Whore
+    level: 30
+    stats:
+      attack: 93-103
+      attack_speed: 0.45s
+      def: 6-10
+      crit: 23%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Earthquake Maker
+    level: 30
+    stats:
+      attack: 186-196
+      attack_speed: 0.95s
+      def: 5-8
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Pyramid Watcher
+    level: 30
+    stats:
+      attack: 88-98
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 25%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Magical Fishing Rod
+    level: 30
+    stats:
+      attack: 93-98
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 20%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Little David
+    level: 30
+    stats:
+      attack: 236-246
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 15%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Old King's Talisman
+    level: 30
+    stats:
+      def: 9-18
+      hp: 510
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Ring Of Red Fury
+    level: 30
+    stats:
+      attack: 9%
+      hp: 410
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Peasant Cutters
+    level: 40
+    stats:
+      attack: 28-32
+      attack_speed: 0.01s
+      def: 6-10
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Winged Mace
+    level: 40
+    stats:
+      attack: 103-113
+      attack_speed: 0.45s
+      def: 7-12
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Seperator
+    level: 40
+    stats:
+      attack: 206-216
+      attack_speed: 0.95s
+      def: 6-10
+      crit: 22%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Outlaws Composite Bow
+    level: 40
+    stats:
+      attack: 98-108
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Goat's Head
+    level: 40
+    stats:
+      attack: 103-108
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Villager Attitude Adjuster
+    level: 40
+    stats:
+      attack: 256-266
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Looters Amulet
+    level: 40
+    stats:
+      def: 11-22
+      hp: 660
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Fabulous Pillager Ring
+    level: 40
+    stats:
+      attack: 11%
+      hp: 490
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Protector Blades
+    level: 50
+    stats:
+      attack: 29-36
+      attack_speed: 0.01s
+      def: 10-20
+      crit: 32%
+      crit_power: 2.4
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Champions Baselards
+    level: 50
+    stats:
+      attack: 31-35
+      attack_speed: 0.01s
+      def: 7-12
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Whip
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.25s
+      def: 2-4
+      crit: 44%
+      crit_power: 2.3
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Beastly Steel Bar Mace
+    level: 50
+    stats:
+      attack: 118-128
+      attack_speed: 0.45s
+      def: 8-14
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Nodachi
+    level: 50
+    stats:
+      attack: 118-123
+      attack_speed: 0.55s
+      def: 1-2
+      crit: 23%
+      crit_power: 1.9
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Striker
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.1s
+      def: 0-0
+      crit: 33%
+      crit_power: 2.2
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Bow Of Great Destruction
+    level: 50
+    stats:
+      attack: 113-118
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Origin Myth
+    level: 50
+    stats:
+      attack: 59-64
+      attack_speed: 0.8s
+      def: 0-0
+      crit: 33%
+      crit_power: 1.9
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Beast Controller
+    level: 50
+    stats:
+      attack: 118-123
+      attack_speed: 1.55s
+      def: 0-0
+      crit: 21%
+      crit_power: 1.8
+    sell_price: TBC
+    type: rod
+    quality: elite
+    found: Crafted, Valder
+  - name: Infinity Auto Baron
+    level: 50
+    stats:
+      attack: 143-148
+      attack_speed: 1.5s
+      def: 0-0
+      crit: 30%
+      crit_power: 2.1
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Notorious Rocket Launcher
+    level: 50
+    stats:
+      attack: 286-296
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, Valder
+  - name: Immortal Neckace
+    level: 50
+    stats:
+      def: 1-2
+      hp: 999
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Kings Knowledge
+    level: 50
+    stats:
+      def: 13-26
+      hp: 860
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, Valder
+  - name: Power Ring
+    level: 50
+    stats:
+      attack: 17%
+      hp: 100
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Kings Finger
+    level: 50
+    stats:
+      attack: 13%
+      hp: 650
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, Valder
+  - name: Knightly Daggers
+    level: 60
+    stats:
+      attack: 36-40
+      attack_speed: 0.01s
+      def: 8-14
+      crit: 31%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, James Mason
+  - name: Lucid Poignards
+    level: 70
+    stats:
+      attack: 42-47
+      attack_speed: 0.01s
+      def: 9-16
+      crit: 32%
+      crit_power: 2.3
+    sell_price: TBC
+    type: dualwield
+    quality: elite
+    found: Crafted, James Mason
+  - name: Morning Star
+    level: 60
+    stats:
+      attack: 138-148
+      attack_speed: 0.45s
+      def: 9-16
+      crit: 24%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Illusion Sword
+    level: 70
+    stats:
+      attack: 163-173
+      attack_speed: 0.44s
+      def: 10-18
+      crit: 25%
+      crit_power: 2.2
+    sell_price: TBC
+    type: onehander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Knights Honor
+    level: 60
+    stats:
+      attack: 276-286
+      attack_speed: 0.95s
+      def: 8-14
+      crit: 22%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Elegant Bastard Sword
+    level: 70
+    stats:
+      attack: 326-336
+      attack_speed: 0.94s
+      def: 9-16
+      crit: 23%
+      crit_power: 1.8
+    sell_price: TBC
+    type: twohander
+    quality: elite
+    found: Crafted, James Mason
+  - name: Banned Knight Slayer
+    level: 60
+    stats:
+      attack: 133-143
+      attack_speed: 0.2s
+      def: 0-0
+      crit: 26%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, James Mason
+  - name: Rainbow
+    level: 70
+    stats:
+      attack: 158-168
+      attack_speed: 0.19s
+      def: 0-0
+      crit: 27%
+      crit_power: 2.1
+    sell_price: TBC
+    type: bow
+    quality: elite
+    found: Crafted, James, Mason
+  - name: Neverending Castle Story
+    level: 60
+    stats:
+      attack: 138-143
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 21%
+      crit_power: 1.8
+    sell_price: 600
+    type: rod
+    quality: elite
+    found: Crafted, James Mason
+  - name: Tales of Heroes
+    level: 70
+    stats:
+      attack: 163-168
+      attack_speed: 1.54s
+      def: 9-16
+      crit: 22%
+      crit_power: 1.8
+    sell_price: 700
+    type: rod
+    quality: elite
+    found: Crafted, James Mason
+  - name: Siege Howitzer
+    level: 60
+    stats:
+      attack: 326-336
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 16%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, James Mason
+  - name: Dark Dreamseeker
+    level: 70
+    stats:
+      attack: 376-386
+      attack_speed: 2.94s
+      def: 0-0
+      crit: 17%
+      crit_power: 2.0
+    sell_price: TBC
+    type: cannon
+    quality: elite
+    found: Crafted, James Mason
+  - name: Besiegers Talisman
+    level: 60
+    stats:
+      def: 15-30
+      hp: 1110
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, James Mason
+  - name: Virgo Pendant
+    level: 70
+    stats:
+      def: 17-34
+      hp: 1460
+    sell_price: TBC
+    type: necklace
+    quality: elite
+    found: Crafted, James Mason
+  - name: Besiegers Cross Ring
+    level: 60
+    stats:
+      attack: 15%
+      hp: 810
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, James Mason
+  - name: Dying Dream
+    level: 70
+    stats:
+      attack: 17%
+      hp: 1050
+    sell_price: TBC
+    type: ring
+    quality: elite
+    found: Crafted, James Mason
+  - name: Tribal Cudgel
+    level: 74
+    stats:
+      attack: 148-158
+      attack_speed: 0.51s
+      def: 7-14
+      crit: 20%
+      crit_power: 2.1
+    sell_price: 390
+    type: onehander
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Red Mortar
+    level: 74
+    stats:
+      attack: 345-355
+      attack_speed: 2.95s
+      def: 0-0
+      crit: 12%
+      crit_power: 1.9
+    sell_price: 390
+    type: cannon
+    quality: unique
+    found: Pesadilla, Road Of Dreams wave 20
+  - name: Grus Necklace
+    level: 74
+    stats:
+      def: 16-31
+      hp: 1125
+    sell_price: 425
+    type: necklace
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Horsemans Hand
+    level: 74
+    stats:
+      attack: 148-153
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 17%
+      crit_power: 1.7
+    sell_price: 390
+    type: rod
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Glass Striker
+    level: 74
+    stats:
+      attack: 143-153
+      attack_speed: 0.22s
+      def: 0-0
+      crit: 22%
+      crit_power: 2.0
+    sell_price: 390
+    type: bow
+    quality: unique
+    found: Ill Veteran Stumb, Road Of Dreams wave 10
+  - name: Parrying Daggers
+    level: 76
+    stats:
+      attack: 41-46
+      attack_speed: 0.01s
+      def: 7-14
+      crit: 28%
+      crit_power: 2.2
+    sell_price: 500
+    type: dualwield
+    quality: rare
+    found: Pesadilla, Road Of Dreams wave 20
+  - name: Zweihander
+    level: 74
+    stats:
+      attack: 298-308
+      attack_speed: 0.96s
+      def: 6-12
+      crit: 18%
+      crit_power: 1.6
+    sell_price: 390
+    type: twohander
+    quality: unique
+    found: Pesadilla, Road Of Dreams wave 20
+  - name: Wedding Ring
+    level: 70
+    stats:
+      attack: 15%
+      hp: 830
+    sell_price: 500
+    type: ring
+    quality: unique
+    found: Fishing Rank 3
+  - name: Mothers Necklace
+    level: 70
+    stats:
+      def: 15-32
+      hp: 1150
+    sell_price: 500
+    type: necklace
+    quality: unique
+    found: Fishing Rank 3
+  - name: Goblin Scout Badge
+    level: 70
+    stats:
+      attack: 21%
+    sell_price: 650
+    type: artifact
+    quality: rare
+    found: Fishing Rank 3
+  - name: White Shiny Necklace
+    level: 75
+    stats:
+      def: 16-32
+      hp: 1270
+    sell_price: 550
+    type: necklace
+    quality: unique
+    found: Fishing Rank 3
+  - name: Unicorn Trident Rod
+    level: 76
+    stats:
+      attack: 162-167
+      attack_speed: 1.55s
+      def: 9-16
+      crit: 19%
+      crit_power: 1.7
+    sell_price: 500
+    type: rod
+    quality: rare
+    found: Undead, Road Of Dreams wave 30
+  - name: Green Knives
+    level: 56
+    stats:
+      attack: 30-34
+      attack_speed: 0.01s
+      def: 6-11
+      crit: 26%
+      crit_power: 2.2
+    sell_price: 400
+    type: dualwield
+    quality: rare
+    found: Wiz, Slime wave 30
